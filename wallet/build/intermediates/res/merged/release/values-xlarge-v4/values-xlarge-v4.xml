@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="show_bitmap_dialog_label" type="bool">true</item>
+    <item name="show_exchange_rates_option" type="bool">false</item>
+    <item name="show_local_balance" type="bool">true</item>
+    <item name="wallet_actions_top" type="bool">true</item>
+    <dimen name="bitmap_dialog_qr_size">320dp</dimen>
+    <dimen name="divider_currency_padding">16dp</dimen>
+    <dimen name="font_size_huge">50sp</dimen>
+    <dimen name="font_size_large">30sp</dimen>
+    <dimen name="font_size_normal">22sp</dimen>
+    <dimen name="font_size_small">18sp</dimen>
+    <dimen name="font_size_tiny">14sp</dimen>
+    <dimen name="font_size_xlarge">34sp</dimen>
+    <dimen name="list_entry_padding_horizontal">16dp</dimen>
+    <dimen name="list_entry_padding_horizontal_cram">8dp</dimen>
+    <dimen name="list_entry_padding_horizontal_lax">25dp</dimen>
+    <dimen name="list_entry_padding_vertical">12dp</dimen>
+    <dimen name="list_entry_padding_vertical_lax">18dp</dimen>
+    <dimen name="request_coins_qr_size">192dp</dimen>
+    <dimen name="symbol_size_normal">19sp</dimen>
+    <dimen name="wallet_address_qr_size">128dp</dimen>
+    <item name="address_book_content" type="layout">@layout/address_book_twopanes</item>
+    <item name="network_monitor_content" type="layout">@layout/network_monitor_twopanes</item>
+    <item name="wallet_content" type="layout">@layout/wallet_activity_twopanes</item>
+</resources>

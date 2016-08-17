@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/drawable/action_bar_background.xml",
+        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/drawable/action_bar_background.xml"
+    },
+    {
+        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/drawable/view_shadow_bottom.xml",
+        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/drawable/view_shadow_bottom.xml"
+    },
+    {
+        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/drawable/view_shadow_left.xml",
+        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/drawable/view_shadow_left.xml"
+    },
+    {
+        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/drawable/view_shadow_top.xml",
+        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/drawable/view_shadow_top.xml"
+    },
+    {
+        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/drawable/button_bar_background.xml",
+        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/drawable/button_bar_background.xml"
+    },
+    {
+        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/drawable/appwidget_button_left.xml",
+        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/drawable/appwidget_button_left.xml"
+    },
+    {
+        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/drawable/divider_dark.xml",
+        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/drawable/divider_dark.xml"
+    },
+    {
+        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/drawable/appwidget_dark_bg_clickable.xml",
+        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/drawable/appwidget_dark_bg_clickable.xml"
+    },
+    {
+        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/drawable/action_bar_up_indicator.xml",
+        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/drawable/action_bar_up_indicator.xml"
+    },
+    {
+        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/drawable/action_mode_background.xml",
+        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/drawable/action_mode_background.xml"
+    },
+    {
+        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/drawable/divider_field.xml",
+        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/drawable/divider_field.xml"
+    },
+    {
+        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/drawable/view_shadow_right.xml",
+        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/drawable/view_shadow_right.xml"
+    },
+    {
+        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/drawable/appwidget_button_right.xml",
+        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/drawable/appwidget_button_right.xml"
+    },
+    {
+        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/drawable/appwidget_button_center.xml",
+        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/drawable/appwidget_button_center.xml"
+    },
+    {
+        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/drawable/divider_currency.xml",
+        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/drawable/divider_currency.xml"
+    },
+    {
+        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/drawable/appwidget_divider.xml",
+        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/drawable/appwidget_divider.xml"
+    },
+    {
+        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/drawable/stat_sys_peers.xml",
+        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/drawable/stat_sys_peers.xml"
+    }
+]

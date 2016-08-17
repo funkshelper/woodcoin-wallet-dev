@@ -1,0 +1,410 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:2:1-239:12
+	package
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:4:2-32
+	android:versionName
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:7:2-28
+		INJECTED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml
+		INJECTED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:3:2-48
+	android:versionCode
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:6:2-27
+		INJECTED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml
+		INJECTED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:5:2-40
+uses-sdk
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:9:2-12:33
+MERGED from [com.android.support:support-v4:23.1.1] /home/lukas/work/woodcoin-wallet/wallet/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v13:23.1.1] /home/lukas/work/woodcoin-wallet/wallet/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:23.1.1] /home/lukas/work/woodcoin-wallet/wallet/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] /home/lukas/work/woodcoin-wallet/wallet/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/lukas/work/woodcoin-wallet/wallet/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.1.1] /home/lukas/work/woodcoin-wallet/wallet/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:11:3-32
+	tools:ignore
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:12:3-30
+	android:minSdkVersion
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:10:3-29
+uses-permission#android.permission.INTERNET
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:14:2-64
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:14:19-61
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:15:2-78
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:15:19-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:16:2-77
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:16:19-74
+uses-permission#android.permission.NFC
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:17:2-59
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:17:19-56
+uses-permission#android.permission.CAMERA
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:18:2-62
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:18:19-59
+uses-permission#android.permission.VIBRATE
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:19:19-60
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:20:2-65
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:20:19-62
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:21:2-78
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:21:19-75
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:22:2-65
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:22:19-62
+uses-feature#android.hardware.touchscreen
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:24:2-26:30
+	android:required
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:26:3-27
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:25:3-46
+uses-feature#android.hardware.nfc
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:27:2-29:30
+	android:required
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:29:3-27
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:28:3-38
+uses-feature#android.hardware.camera
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:30:2-32:30
+	android:required
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:32:3-27
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:31:3-41
+uses-feature#android.hardware.camera.front
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:33:2-35:30
+	android:required
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:35:3-27
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:34:3-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:36:2-38:30
+	android:required
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:38:3-27
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:37:3-51
+uses-feature#android.hardware.camera.flash
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:39:2-41:30
+	android:required
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:41:3-27
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:40:3-47
+uses-feature#android.hardware.screen.landscape
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:42:2-44:30
+	android:required
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:44:3-27
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:43:3-51
+uses-feature#android.hardware.bluetooth
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:45:2-47:30
+	android:required
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:47:3-27
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:46:3-44
+supports-screens
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:49:2-54:34
+	android:largeScreens
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:51:3-30
+	android:smallScreens
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:53:3-30
+	android:normalScreens
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:52:3-31
+	android:xlargeScreens
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:54:3-31
+	android:anyDensity
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:50:3-28
+application
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:56:2-237:16
+MERGED from [com.android.support:support-v4:23.1.1] /home/lukas/work/woodcoin-wallet/wallet/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:23.1.1] /home/lukas/work/woodcoin-wallet/wallet/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/lukas/work/woodcoin-wallet/wallet/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/lukas/work/woodcoin-wallet/wallet/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.1.1] /home/lukas/work/woodcoin-wallet/wallet/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:60:3-35
+	android:allowBackup
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:58:3-30
+	android:icon
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:59:3-45
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:57:3-56
+activity#de.schildbach.wallet.ui.WalletActivity
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:61:3-66:38
+	android:launchMode
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:65:4-35
+	android:exported
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:64:4-27
+	android:configChanges
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:63:4-51
+	android:theme
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:66:4-35
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:62:4-57
+activity-alias#de.schildbach.wallet.WalletActivity
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:68:3-83:20
+	android:targetActivity
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:70:4-67
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:69:4-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:71:4-75:20
+action#android.intent.action.MAIN
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:72:5-57
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:72:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:74:5-65
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:74:15-62
+intent-filter#android.intent.category.DEFAULT+android.nfc.action.NDEF_DISCOVERED
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:76:4-82:20
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:77:5-65
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:77:13-62
+data
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:79:5-52
+	android:mimeType
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:79:11-49
+category#android.intent.category.DEFAULT
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:81:5-64
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:81:15-61
+activity#de.schildbach.wallet.ui.send.SendCoinsActivity
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:85:3-121:14
+	android:screenOrientation
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:89:4-38
+	android:label
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:88:4-53
+	android:windowSoftInputMode
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:91:4-46
+	android:configChanges
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:87:4-51
+	android:theme
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:90:4-49
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:86:4-65
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:92:4-99:20
+	android:label
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:92:19-68
+action#android.intent.action.VIEW
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:93:5-57
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:93:13-54
+category#android.intent.category.BROWSABLE
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:98:5-66
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:98:15-63
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:107:4-113:20
+	android:label
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:107:19-68
+activity#de.schildbach.wallet.ui.SendCoinsQrActivity
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:122:3-126:14
+	android:configChanges
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:124:4-51
+	android:theme
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:125:4-63
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:123:4-62
+activity#de.schildbach.wallet.ui.RequestCoinsActivity
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:127:3-133:49
+	android:screenOrientation
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:131:4-38
+	android:label
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:130:4-56
+	android:windowSoftInputMode
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:133:4-46
+	android:configChanges
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:129:4-51
+	android:theme
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:132:4-49
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:128:4-63
+activity#de.schildbach.wallet.ui.AddressBookActivity
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:134:3-139:52
+	android:screenOrientation
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:138:4-38
+	android:label
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:137:4-55
+	android:configChanges
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:136:4-51
+	android:theme
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:139:4-49
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:135:4-62
+activity#de.schildbach.wallet.ui.ExchangeRatesActivity
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:140:3-145:52
+	android:screenOrientation
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:144:4-38
+	android:label
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:143:4-57
+	android:configChanges
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:142:4-51
+	android:theme
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:145:4-49
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:141:4-64
+activity#de.schildbach.wallet.ui.NetworkMonitorActivity
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:146:3-151:52
+	android:screenOrientation
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:150:4-38
+	android:label
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:149:4-58
+	android:configChanges
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:148:4-51
+	android:theme
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:151:4-49
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:147:4-65
+activity#de.schildbach.wallet.ui.preference.PreferenceActivity
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:152:3-156:52
+	android:screenOrientation
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:155:4-38
+	android:label
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:154:4-54
+	android:theme
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:156:4-49
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:153:4-72
+activity#de.schildbach.wallet.ui.RestoreWalletActivity
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:157:3-168:14
+	android:configChanges
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:159:4-63
+	android:theme
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:160:4-42
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:158:4-64
+activity#de.schildbach.wallet.ui.ScanActivity
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:169:3-175:54
+	android:screenOrientation
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:172:4-41
+	android:stateNotNeeded
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:173:4-33
+	android:windowSoftInputMode
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:175:4-51
+	android:configChanges
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:171:4-63
+	android:theme
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:174:4-46
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:170:4-55
+activity#de.schildbach.wallet.ui.send.SweepWalletActivity
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:176:3-182:49
+	android:screenOrientation
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:180:4-38
+	android:label
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:179:4-55
+	android:windowSoftInputMode
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:182:4-46
+	android:configChanges
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:178:4-51
+	android:theme
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:181:4-49
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:177:4-67
+provider#de.schildbach.wallet.AddressBookProvider
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:184:3-187:31
+	android:authorities
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:186:4-59
+	android:exported
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:187:4-28
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:185:4-59
+provider#de.schildbach.wallet.ExchangeRatesProvider
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:188:3-191:31
+	android:authorities
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:190:4-61
+	android:exported
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:191:4-28
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:189:4-61
+provider#de.schildbach.wallet.FileAttachmentProvider
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:192:3-196:41
+	android:authorities
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:194:4-62
+	android:grantUriPermissions
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:196:4-38
+	android:exported
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:195:4-28
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:193:4-62
+receiver#de.schildbach.wallet.WalletBalanceWidgetProvider
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:198:3-208:14
+	android:label
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:200:4-42
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:199:4-67
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:201:4-203:20
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:202:5-72
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:202:13-69
+meta-data#android.appwidget.provider
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:205:4-207:53
+	android:resource
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:207:5-50
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:206:5-46
+service#de.schildbach.wallet.service.BlockchainServiceImpl
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:210:3-212:31
+	android:exported
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:212:4-28
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:211:4-69
+service#de.schildbach.wallet.offline.AcceptBluetoothService
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:213:3-215:31
+	android:exported
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:215:4-28
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:214:4-70
+receiver#de.schildbach.wallet.service.BootstrapReceiver
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:217:3-224:14
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:217:13-74
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:218:4-220:20
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:219:5-67
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:219:13-64
+intent-filter#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:221:4-223:20
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:222:5-72
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:222:13-69
+service#de.schildbach.wallet.service.UpgradeWalletService
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:226:3-228:31
+	android:exported
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:228:4-28
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:227:4-68
+service#de.schildbach.wallet.service.InactivityNotificationService
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:230:3-232:31
+	android:exported
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:232:4-28
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:231:4-77
+meta-data#android.nfc.disable_beam_default
+ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:234:3-236:27
+	android:value
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:236:4-24
+	android:name
+		ADDED from /home/lukas/work/woodcoin-wallet/wallet/AndroidManifest.xml:235:4-51

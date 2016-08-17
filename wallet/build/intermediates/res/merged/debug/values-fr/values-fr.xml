@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_community_googleplus_summary">Discussions à propos de cette appli</string>
+    <string name="about_community_googleplus_title">Communauté Google+</string>
+    <string name="about_copyright_title">Tous droits réservés</string>
+    <string name="about_credits_bitcoinj_title">Cette appli utilise bitcoinj %s</string>
+    <string name="about_credits_icon_title">Cette appli utilise une icône par « bitboy »</string>
+    <string name="about_credits_zxing_title">Cette appli utilise zxing</string>
+    <string name="about_license_title">Licence</string>
+    <string name="about_market_app_summary">Critiquer ou évaluer cette appli</string>
+    <string name="about_market_app_title">Page Google Play</string>
+    <string name="about_source_title">Code source</string>
+    <string name="about_title">À propos du logiciel</string>
+    <string name="about_version_title">Version</string>
+    <string name="action_browse">Parcourir</string>
+    <string name="action_show_qr">Montrer le code QR</string>
+    <string name="address_book_activity_title">Carnet d\'adresses</string>
+    <string name="address_book_context_copy_to_clipboard_title">Copier dans le presse-papiers</string>
+    <string name="address_book_context_edit_title">Modifier l\'adresse</string>
+    <string name="address_book_context_remove_title">Enlever l\'adresse</string>
+    <string name="address_book_context_send_title">Envoyer des bitcoins à une adresse</string>
+    <string name="address_book_empty_text">Carnet d\'adresses vide</string>
+    <string name="address_book_list_receiving_random">Anciennes adresses</string>
+    <string name="address_book_list_receiving_title">Vos adresses</string>
+    <string name="address_book_list_sending_title">Adresses d\'envoi</string>
+    <string name="address_book_options_paste_from_clipboard_empty">Le presse-papiers est vide</string>
+    <string name="address_book_options_paste_from_clipboard_invalid">Les données provenant du presse-papiers ne peuvent pas être reconnues.</string>
+    <string name="address_book_options_paste_from_clipboard_own_address">L\'adresse dans le presse-papiers est la vôtre.</string>
+    <string name="address_book_options_paste_from_clipboard_title">Coller depuis le presse-papiers</string>
+    <string name="address_book_options_scan_invalid">Les données numérisées ne peuvent pas être reconnues</string>
+    <string name="address_book_options_scan_own_address">L\'adresse numérisée est la vôtre.</string>
+    <string name="address_book_options_scan_title">Numériser l\'adresse</string>
+    <string name="address_book_row_message_compromised_key">Cette adresse peut-être compromise. Vous ne devriez plus l\'utiliser pour recevoir des bitcoins.</string>
+    <string name="address_unlabeled">(sans étiquette)</string>
+    <string name="backup_wallet_dialog_message">Votre sauvegarde sera chiffrée avec le mot de passe choisi et écrit sur le stockage externe.</string>
+    <string name="backup_wallet_dialog_password_again">de nouveau</string>
+    <string name="backup_wallet_dialog_password_mismatch">différence !</string>
+    <string name="backup_wallet_dialog_warning_encrypted">Votre portefeuille est protégé par un NIP de dépense. Assurez-vous de retenir le NIP en plus du mot de passe de sauvegarde !</string>
+    <string name="bitmap_fragment_share">Partager…</string>
+    <string name="block_row_now">à l\'instant</string>
+    <string name="blockchain_state_progress_days">%1$s, %2$d jours en retard</string>
+    <string name="blockchain_state_progress_downloading">Synchronisation avec le réseau</string>
+    <string name="blockchain_state_progress_hours">%1$s, %2$d heures en retard</string>
+    <string name="blockchain_state_progress_months">%1$s, %2$d mois en retard</string>
+    <string name="blockchain_state_progress_problem_network">Synchronisation : problème de réseau</string>
+    <string name="blockchain_state_progress_problem_storage">Synchronisation : problème de stockage</string>
+    <string name="blockchain_state_progress_stalled">Synchronisation interrompue</string>
+    <string name="blockchain_state_progress_weeks">%1$s, %2$d semaines en retard</string>
+    <string name="button_add">Ajouter</string>
+    <string name="button_cancel">Annuler</string>
+    <string name="button_copy">Copier</string>
+    <string name="button_delete">Effacer</string>
+    <string name="button_dismiss">Fermer</string>
+    <string name="button_edit">Édition</string>
+    <string name="button_help">Aide</string>
+    <string name="button_ok">OK</string>
+    <string name="button_paste">Coller</string>
+    <string name="button_remove">Enlever</string>
+    <string name="button_request_coins">Demande de BTC</string>
+    <string name="button_retry">Ressayer</string>
+    <string name="button_scan">Numériser</string>
+    <string name="button_send_coins">Envoi de BTC</string>
+    <string name="button_set">Définir</string>
+    <string name="button_set_as_default">Définir par défaut</string>
+    <string name="button_settings">Paramètres</string>
+    <string name="button_share">Partager</string>
+    <string name="edit_address_book_entry_dialog_address_label">Adresse</string>
+    <string name="edit_address_book_entry_dialog_button_edit">Enregistrer</string>
+    <string name="edit_address_book_entry_dialog_label_label">Étiquette</string>
+    <string name="edit_address_book_entry_dialog_title_add">Ajouter une adresse d\'envoi</string>
+    <string name="edit_address_book_entry_dialog_title_add_receive">Ajouter une étiquette à l\'adresse</string>
+    <string name="edit_address_book_entry_dialog_title_edit">Modifier l\'étiquette de l\'adresse d\'envoi</string>
+    <string name="edit_address_book_entry_dialog_title_edit_receive">Modifier l\'étiquette de votre étiquette</string>
+    <string name="encrypt_keys_dialog_message">Les dépenses de votre portefeuille seront protégées par le NIP choisi.</string>
+    <string name="encrypt_keys_dialog_password_old">Ancien NIP</string>
+    <string name="encrypt_keys_dialog_password_strength_fair">correct</string>
+    <string name="encrypt_keys_dialog_password_strength_good">bon</string>
+    <string name="encrypt_keys_dialog_password_strength_strong">fort</string>
+    <string name="encrypt_keys_dialog_password_strength_weak">faible</string>
+    <string name="encrypt_keys_dialog_show">Montrer le NIP</string>
+    <string name="encrypt_keys_dialog_state_decrypting">Déchiffrement…</string>
+    <string name="encrypt_keys_dialog_state_done">Terminé.</string>
+    <string name="encrypt_keys_dialog_state_encrypting">Chiffrement…</string>
+    <string name="encrypt_keys_dialog_title">NIP de dépense</string>
+    <string name="encrypt_keys_dialog_warning">Important : vous devez mémoriser votre NIP ! N\'utilisez pas de nombre commun (comme une date de naissance).</string>
+    <string name="error_bluetooth">Erreur Bluetooth : %1$s</string>
+    <string name="error_http">Erreur HTTP %1$s :\n%2$s</string>
+    <string name="error_io">Erreur E/S : %s</string>
+    <string name="error_parse">Erreur d\'analyse : %s</string>
+    <string name="exchange_rates_activity_title">Taux de change</string>
+    <string name="exchange_rates_context_set_as_default_title">Définir comme devise étrangère par défaut</string>
+    <string name="exchange_rates_fragment_balance">solde</string>
+    <string name="exchange_rates_fragment_default">(par défaut)</string>
+    <string name="exchange_rates_fragment_empty_search">Taux de change introuvable.</string>
+    <string name="exchange_rates_fragment_empty_text">Impossible de charger les taux de change</string>
+    <string name="exchange_rates_fragment_rate">taux</string>
+    <string name="exchange_rates_fragment_source">Prix de %s</string>
+    <string name="exchange_rates_options_search">Chercher le taux de change</string>
+    <string name="export_keys_dialog_button_archive">Archiver</string>
+    <string name="export_keys_dialog_button_export">Sauvegarder</string>
+    <string name="export_keys_dialog_failure">Votre portefeuille n\'a pas pu être exporté :\n%s</string>
+    <string name="export_keys_dialog_mail_intent_chooser">Archiver le portefeuille en utilisant…</string>
+    <string name="export_keys_dialog_mail_intent_failed">Échec lors de l\'archivage du portefeuille.</string>
+    <string name="export_keys_dialog_mail_subject">Sauvegarde du portefeuille Bitcoin</string>
+    <string name="export_keys_dialog_mail_text">Le fichier chiffré attaché contient des clés privées Bitcoin et doit être conservé en lieu sûr en tout temps. N\'oubliez pas le mot de passe de chiffrement !</string>
+    <string name="export_keys_dialog_success">&lt;p>Votre portefeuille a été sauvegardé vers &lt;tt>%s&lt;/tt>&lt;/p>&lt;p>Si votre appareil a une carte SD amovible, votre sauvegarde &lt;i>devrait&lt;/i> être sur cette carte. Enlevez-la et conservez-la dans un endroit sûr. Si la carte n\'est &lt;i>pas&lt;/i> amovible, vous devez archiver votre sauvegarde dans un endroit autre que votre appareil.&lt;/p>&lt;p>&lt;b>Si votre sauvegarde existe seulement sur votre appareil, vous courez le risque de perdre les deux en même temps !&lt;/b>&lt;/p>&lt;p>Dans tous les cas, assurez-vous de vous souvenir du mot de passe de votre sauvegarde. Voulez-vous archiver votre portefeuille maintenant ?&lt;/p></string>
+    <string name="export_keys_dialog_title">Sauvegarder le portefeuille</string>
+    <string name="extended_public_key_fragment_share">Partager la xpub…</string>
+    <string name="extended_public_key_fragment_title">Clé privée étendue</string>
+    <string name="help_request_coins">
+
+		&lt;p>
+			En utilisant cette zone de dialogue vous pouvez demander des pièces à une autre personne (qui devrait déjà avoir installé le Bitcoin Wallet).
+		&lt;/p>
+		&lt;p>
+			Vous pouvez d\'abord saisir un montant de bitcoins à demander.
+		&lt;/p>
+		&lt;p>
+			Ensuite, l\'autre personne peut numériser le code QR généré.
+			Vous pouvez aussi envoyer votre demande à une personne éloignée avec le bouton Partager de la barre de menu.
+			L\'autre personne devra cliquer sur l\'URL Bitcoin.
+		&lt;/p>
+		&lt;p>
+			Dans les deux cas, l\'autre personne obtiendra une zone de dialogue préremplie pour envoyer les pièces.
+			Si elle accepte, elle n\'aura qu\'à envoyer le paiement.
+		&lt;/p>
+	
+	</string>
+    <string name="help_safety">
+
+		&lt;p>
+			&lt;b>Notes de sécurité importantes :&lt;/b>
+		&lt;/p>
+		&lt;p>
+			Les bitcoins sont stockés sur l\'appareil.
+			&lt;b>Si vous le perdez, vous perdez vos bitcoins.&lt;/b>
+		&lt;/p>
+		&lt;p>
+			Cela signifie que vous devez &lt;b>sauvegarder votre portefeuille&lt;/b> !
+			Utilisez la fonction de sauvegarde de l\'appli plutôt qu\'une appli de sauvegarde tierce.
+			Gardez votre sauvegarde en sûreté et souvenez-vous de votre mot de passe.
+		&lt;/p>
+		&lt;p>
+			&lt;b>Avant de désinstaller Bitcoin Wallet&lt;/b> (ou d\'effacer les données de l\'appli/effacer les données de votre appareil), &lt;b>transférez vos bitcoins vers un autre portefeuille&lt;/b>.
+			Les bitcoins restants seront perdus.
+		&lt;/p>
+		&lt;p>
+			&lt;b>Les paiements sont irréversibles&lt;/b>.
+			Si vous envoyez vos bitcoins dans le vide, il n\'y a presque aucun moyen de les récupérer.
+		&lt;/p>
+		&lt;p>
+			&lt;b>Assurez la sécurité de votre appareil mobile !&lt;/b>
+			Ne rootez pas votre appareil.
+			N\'installez que des applications de confiance.
+			Des applications malveillantes pourraient essayer de voler votre portefeuille.
+		&lt;/p>
+		&lt;p>
+			Minimisez les risques !
+			&lt;b>N\'utilisez que pour des petits montants,&lt;/b> pour un usage quotidien.
+		&lt;/p>
+	
+	</string>
+    <string name="help_send_coins">
+
+		&lt;p>
+			Vous avez commencé le processus d\'envoi de bitcoins.
+			Vous êtes arrivé ici depuis l\'écran principal ou en cliquant sur une URL Bitcoin dans votre navigateur.
+		&lt;/p>
+		&lt;p>
+			D\'abord, saisir l\'adresse Bitcoin de destination.
+			L\'adresse sera complétée automatiquement pour les adresses enregistrées dans votre carnet.
+			Vous pouvez aussi numériser des codes QR avec des adresses Bitcoin ou des demandes de bitcoins en pressant le bouton QR dans la barre d\'actions.
+		&lt;/p>
+		&lt;p>
+			Ensuite, vous pouvez voir combien de bitcoins peuvent être dépensés actuellement.
+			Tout écart avec le solde de l\'écran principal n\'est pas encore confirmé et ne peut donc pas être dépensé.
+		&lt;/p>
+		&lt;p>
+			Enfin, saisir le montant à payer.
+		&lt;/p>
+		&lt;p>
+			Vous pouvez saisir un paiement hors-ligne.
+			Il sera envoyé au prochain lancement du Bitcoin Wallet.
+			Pour le traitement le plus rapide possible de votre paiement, assurez vous d\'être bien connecté (c.-à-d. sur un WLAN).
+		&lt;/p>
+		&lt;p>
+			Note :
+			Les paiements sont irréversibles !
+			Toujours vérifier l\'adresse de destination.
+		&lt;/p>
+	
+	</string>
+    <string name="help_wallet">
+
+		&lt;p>
+			La partie supérieure gauche de l\'écran affiche votre solde en bitcoins ainsi qu\'une monnaie nationale choisie.
+			Toquer pour vous rendre vers la liste des monnaies nationales et toquer sur l\'une d\'elles pour la choisir par défaut.
+		&lt;/p>
+		&lt;p>
+			Le QR code à droite contient votre adresse Bitcoin et peut être numérisé par un tiers.
+			Toquer sur le code QR pour l\'agrandir.
+		&lt;/p>
+		&lt;p>
+			Le bas de l\'écran est couvert par votre liste de transactions, qui est vide initialement.
+			Les transactions en attente sont grisées jusqu\'à ce qu\'elles soient confirmées.
+			Toquer sur une transaction pour ajouter l\'adresse du destinataire ou de l\'envoyeur à votre carnet d\'adresses.
+		&lt;/p>
+		&lt;p>
+			Vous pouvez envoyer ou recevoir des bitcoins en toquant les boutons dans la barre d\'action.
+			Plus d\'options sont offertes dans le menu des options.
+		&lt;/p>
+	
+	</string>
+    <string name="import_export_keys_dialog_failure_title">Erreur</string>
+    <string name="import_export_keys_dialog_password">mot de passe</string>
+    <string name="import_export_keys_dialog_show">Montrer le mot de passe</string>
+    <string name="import_keys_dialog_button_import">Restaurer</string>
+    <string name="import_keys_dialog_failure">Impossible de restaurer le portefeuille :\n\n%s\n\nMot de passe erroné ?</string>
+    <string name="import_keys_dialog_file_created_automatic">sauvegarde automatique %s</string>
+    <string name="import_keys_dialog_file_created_manual">%s sauvegardé manuellement</string>
+    <string name="import_keys_dialog_file_security_encrypted">le mot de passe a été chiffré</string>
+    <string name="import_keys_dialog_file_security_external">stockage externe</string>
+    <string name="import_keys_dialog_file_security_internal">stockage applicatif</string>
+    <string name="import_keys_dialog_file_security_unencrypted">non chiffré</string>
+    <string name="import_keys_dialog_message">Choisir un fichier de sauvegarde de portefeuille sur un stockage externe (%s) :</string>
+    <string name="import_keys_dialog_title">Restaurer le portefeuille</string>
+    <string name="import_keys_dialog_warning">Important : ne pas charger de clé privée de sources douteuses ! D\'autres utilisateurs peuvent prendre contrôle de vos fonds si vous le faites.</string>
+    <string name="import_keys_intent_filter_action">Restaurer le portefeuille</string>
+    <string name="input_parser_cannot_classify">Impossible de reconnaître l\'entrée :\n%s</string>
+    <string name="input_parser_invalid_address">Réception d\'une adresse Bitcoin invalide !\n(Mélange mainnet/testnet ?)</string>
+    <string name="input_parser_invalid_bitcoin_uri">URI Bitcoin invalide :\n%s</string>
+    <string name="input_parser_invalid_paymentrequest">Demande de paiement invalide :\n%s</string>
+    <string name="input_parser_invalid_transaction">Transaction invalide :\n%s</string>
+    <string name="input_parser_io_error">Impossible de lire les données :\n%s</string>
+    <string name="input_parser_unverifyable_paymentrequest">Impossible de vérifier la demande de paiement :\n%s</string>
+    <string name="maintenance_dialog_button_move">Déplacer</string>
+    <string name="maintenance_dialog_message">Vous avez reçu %1$s à des adresses non sécurisées. Voulez-vous déplacer ces pièces vers des adresses sécurisées ? Des petits frais de réseau de %2$s seront payés.</string>
+    <string name="maintenance_dialog_state_decrypting">Déchiffrement…</string>
+    <string name="maintenance_dialog_state_done">Terminé.</string>
+    <string name="maintenance_dialog_title">Maintenance recommandée</string>
+    <string name="network_monitor_activity_title">Surveillance du réseau</string>
+    <string name="network_monitor_block_list_title">Blocs</string>
+    <string name="network_monitor_peer_list_title">Pairs</string>
+    <string name="notification_coins_received_msg">%s reçu</string>
+    <string name="notification_peers_connected_msg">%d pairs connectés</string>
+    <string name="peer_list_fragment_empty">Aucun pair connecté</string>
+    <string name="peer_list_row_ping_time">⇆ %d ms</string>
+    <string name="preferences_activity_title">Paramètres</string>
+    <string name="preferences_block_explorer_summary">Explorateur de blocs externe à utiliser pour consulter les transactions, les adresses et les blocs.</string>
+    <string name="preferences_block_explorer_title">Explorateur de blocs</string>
+    <string name="preferences_category_diagnostics">Diagnostics</string>
+    <string name="preferences_category_labs">Labo</string>
+    <string name="preferences_connectivity_notification_summary">Montrer le nombre de pairs actuellement connectés dans la zone de notification.</string>
+    <string name="preferences_connectivity_notification_title">Indicateur de connectivité</string>
+    <string name="preferences_data_usage_summary">Montrer les options pour restreindre l\'utilisation des données sur les réseaux mobiles.</string>
+    <string name="preferences_data_usage_title">Utilisation des données</string>
+    <string name="preferences_extended_public_key_summary">Visualisez la clé privée étendue de votre portefeuille afin qu\'elle puisse être importée dans d\'autres applis et services. Attention : ceci divulguera vos informations monétaires à cette appli.</string>
+    <string name="preferences_extended_public_key_title">Montrer la xpub</string>
+    <string name="preferences_initiate_reset_dialog_message">Voulez-vous réinitialiser et relire la chaîne de blocs ?\n\nLe solde de votre portefeuille sera caché et les transactions retirées temporairement. Les deux seront récupérés alors que la synchro de la chaîne de blocs progressera.</string>
+    <string name="preferences_initiate_reset_dialog_positive">Réinitialiser</string>
+    <string name="preferences_initiate_reset_summary">Réinitialiser la chaîne de blocs, les transactions et le solde du portefeuille. La relecture prendra un moment.</string>
+    <string name="preferences_initiate_reset_title">Réinitialiser la chaîne de blocs</string>
+    <string name="preferences_own_name_summary">Votre nom qui sera ajouté aux demandes de paiement. Il doit être court.</string>
+    <string name="preferences_own_name_title">Votre nom</string>
+    <string name="preferences_precision_labels_0_6">µBTC, pas de décimale</string>
+    <string name="preferences_precision_labels_2_3">mBTC, 2 décimales</string>
+    <string name="preferences_precision_labels_4">BTC, 4 décimales</string>
+    <string name="preferences_precision_labels_6">BTC, 6 décimales</string>
+    <string name="preferences_precision_labels_8">BTC, 8 décimales</string>
+    <string name="preferences_precision_summary">Unité à utiliser pour l\'affichage. Ceci n\'affecte pas les calculs.</string>
+    <string name="preferences_precision_title">Dénomination et précision</string>
+    <string name="preferences_report_issue_summary">Collecter des informations sur le problème et les envoyer par courriel aux développeurs.</string>
+    <string name="preferences_report_issue_title">Signaler un problème</string>
+    <string name="preferences_send_coins_autoclose_summary">Une fois le paiement effectué, la boîte de dialogue d\'envoi sera fermée automatiquement.</string>
+    <string name="preferences_send_coins_autoclose_title">Fermer automatiquement la boîte de dialogue d\'envoi de pièces</string>
+    <string name="preferences_trusted_peer_only_summary">Empêche la connexion à des pairs autres que les pairs de confiance.</string>
+    <string name="preferences_trusted_peer_only_title">Ignorer la découverte régulière des pairs</string>
+    <string name="preferences_trusted_peer_summary">L\'IP ou le nom d\'hôte d\'un pair auquel se connecter.</string>
+    <string name="preferences_trusted_peer_title">Pair de confiance</string>
+    <string name="private_key_bad_password">NIP erroné !</string>
+    <string name="private_key_password">NIP</string>
+    <string name="raise_fee_dialog_button_raise">Augmenter</string>
+    <string name="raise_fee_dialog_message">Voulez-vous augmenter les frais de réseau de ce paiement de %s ? Cela accélérera la confirmation du paiement.</string>
+    <string name="raise_fee_dialog_state_decrypting">Déchiffrement…</string>
+    <string name="raise_fee_dialog_state_done">Terminé.</string>
+    <string name="raise_fee_dialog_title">Augmenter les frais de réseau</string>
+    <string name="report_issue_dialog_collect_application_log">Ajouter le journal de l\'application</string>
+    <string name="report_issue_dialog_collect_device_info">Ajouter les informations de l\'appareil</string>
+    <string name="report_issue_dialog_collect_installed_packages">Ajouter la liste des paquets installés</string>
+    <string name="report_issue_dialog_collect_wallet_dump">Ajouter un vidage du portefeuille</string>
+    <string name="report_issue_dialog_description">description du problème</string>
+    <string name="report_issue_dialog_mail_intent_chooser">Envoyer le rapport avec…</string>
+    <string name="report_issue_dialog_mail_intent_failed">Échec lors de l\'envoi du paiement.</string>
+    <string name="report_issue_dialog_message_crash">Voudriez-vous envoyer un rapport de plantage pour aider à corriger ce problème dans le futur ?</string>
+    <string name="report_issue_dialog_message_issue">Veuillez décrire votre problème avec assez de précisions pour qu\'il soit reproduit.</string>
+    <string name="report_issue_dialog_report">Signaler</string>
+    <string name="report_issue_dialog_title_crash">Un plantage précédent a été détecté</string>
+    <string name="report_issue_dialog_title_issue">Signaler un problème</string>
+    <string name="request_coins_activity_title">Demander des bitcoins</string>
+    <string name="request_coins_clipboard_msg">Demande de bitcoins copiée dans le presse-papiers</string>
+    <string name="request_coins_fragment_accept_bluetooth_payment">Accepter les paiements par Bluetooth pour un traitement plus fiable.</string>
+    <string name="request_coins_fragment_amount_label">Montant demandé (optionnel)</string>
+    <string name="request_coins_fragment_initiate_request_nfc">Ou touchez un appareil ayant la NFC.</string>
+    <string name="request_coins_fragment_initiate_request_qr">Faites numériser ce code par l\'expéditeur.</string>
+    <string name="request_coins_no_local_app_msg">Aucune autre appli Bitcoin n\'a été trouvée</string>
+    <string name="request_coins_options_local_app_title">Demander à une appli locale</string>
+    <string name="request_coins_share_dialog_title">Partager la demande de bitcoins…</string>
+    <string name="restore_wallet_dialog_replace_warning">Vous allez remplacer votre portefeuille actuel. Toute pièce dans le portefeuille actuel sera perdu à moins que vous n\'en ayez une sauvegarde séparée.</string>
+    <string name="restore_wallet_dialog_success">Le portefeuille a été restauré.</string>
+    <string name="restore_wallet_dialog_success_replay">Votre portefeuille a été restauré avec succès. Son solde sera maintenant déterminé. Ceci prendra du temps.</string>
+    <string name="scan_camera_problem_dialog_message">L\'appareil photo a un problème. Vous devez probablement redémarrer votre appareil.</string>
+    <string name="scan_camera_problem_dialog_title">Désolé</string>
+    <string name="send_coins_activity_title">Envoyer des bitcoins</string>
+    <string name="send_coins_error_msg">Problème durant l\'envoi des pièces !</string>
+    <string name="send_coins_failed_msg">Échec !</string>
+    <string name="send_coins_fragment_amount_label">Montant à payer</string>
+    <string name="send_coins_fragment_button_back">Retour</string>
+    <string name="send_coins_fragment_button_send">Envoyer</string>
+    <string name="send_coins_fragment_direct_payment_ack">Votre paiement a été envoyé directement avec succès.</string>
+    <string name="send_coins_fragment_direct_payment_enable">Envoyer le paiement directement au bénéficiaire.</string>
+    <string name="send_coins_fragment_direct_payment_failed_msg">Votre paiement sera quand même diffusé par le réseau P2P.</string>
+    <string name="send_coins_fragment_direct_payment_failed_title">Échec du paiement direct</string>
+    <string name="send_coins_fragment_direct_payment_nack">Votre paiement par connexion directe a été rejeté.</string>
+    <string name="send_coins_fragment_empty_wallet_failed_title">Le vidage du portefeuille a échoué</string>
+    <string name="send_coins_fragment_hint_dusty_send">Le montant est trop petit pour être envoyé.</string>
+    <string name="send_coins_fragment_hint_empty_wallet_failed">La somme des petits paiements dans votre portefeuille ne donne pas une valeur pouvant être envoyée.</string>
+    <string name="send_coins_fragment_hint_fee">Des petits frais de réseau de %s seront payés.</string>
+    <string name="send_coins_fragment_hint_insufficient_money">Pas assez de pièces disponibles. Il vous manque %s.</string>
+    <string name="send_coins_fragment_insufficient_money_msg1">Il vous manque %s.</string>
+    <string name="send_coins_fragment_insufficient_money_msg2">Voulez-vous payer avec tout ce que vous avez ?</string>
+    <string name="send_coins_fragment_insufficient_money_title">Pas assez de pièces disponibles</string>
+    <string name="send_coins_fragment_payee_verified_by">vérifié par : %s</string>
+    <string name="send_coins_fragment_payee_verified_by_unknown">inconnu</string>
+    <string name="send_coins_fragment_pending">(%s en attente de confirmation)</string>
+    <string name="send_coins_fragment_receiving_address_complex">adresse\ncomplexe</string>
+    <string name="send_coins_fragment_receiving_address_error">Adresse Bitcoin invalide !</string>
+    <string name="send_coins_fragment_receiving_address_hint">saisir l\'adresse ou le nom</string>
+    <string name="send_coins_fragment_receiving_address_label">Payer à</string>
+    <string name="send_coins_fragment_receiving_address_own">Vous êtes sur le point d\'envoyer à vous-même !</string>
+    <string name="send_coins_fragment_request_payment_request_failed_title">Échec lors de la récupération de la signature</string>
+    <string name="send_coins_fragment_request_payment_request_progress">Récupération de la signature de %s…</string>
+    <string name="send_coins_fragment_request_payment_request_wrong_signature">Signature erronée !</string>
+    <string name="send_coins_fragment_state_decrypting">Déchiffrement…</string>
+    <string name="send_coins_options_empty">Vider le portefeuille</string>
+    <string name="send_coins_options_fee_category">Frais</string>
+    <string name="send_coins_options_fee_category_economic">Économique</string>
+    <string name="send_coins_options_fee_category_normal">Normal</string>
+    <string name="send_coins_options_fee_category_priority">Prioritaire</string>
+    <string name="send_coins_preparation_msg">Signature…</string>
+    <string name="send_coins_sending_msg">Envoi en cours…</string>
+    <string name="send_coins_sent_msg">Envoyé !</string>
+    <string name="sweep_wallet_activity_title">Balayer un portefeuille papier</string>
+    <string name="sweep_wallet_fragment_bad_password">mot de passe erroné !</string>
+    <string name="sweep_wallet_fragment_balance">Balance à balayer</string>
+    <string name="sweep_wallet_fragment_button_decrypt">Déchiffrer</string>
+    <string name="sweep_wallet_fragment_button_sweep">Balayer</string>
+    <string name="sweep_wallet_fragment_decrypt_progress">Déchiffrement…\nPeut prendre jusqu\'à 2 min.</string>
+    <string name="sweep_wallet_fragment_encrypted">La clé privée est protégée par un mot de passe.</string>
+    <string name="sweep_wallet_fragment_hint">Les portefeuilles papier sont habituellement utilisés pour le stockage à froid. Certains GAB les imprimes sur le reçu papier plutôt que d\'envoyer les pièces directement vers votre appareil mobile. Certaines personnes utilisent des portefeuilles papier préchargés pour passer des valeurs (non recommandé).</string>
+    <string name="sweep_wallet_fragment_insufficient_money_msg">Le montant de pièces dans le portefeuille est trop petit pour être traité.</string>
+    <string name="sweep_wallet_fragment_insufficient_money_title">Pas assez de pièces</string>
+    <string name="sweep_wallet_fragment_intro">Vous allez balayer un portefeuille papier ou un coupon. Ceci déplacera toutes les pièces de ce papier vers votre portefeuille sur cet appareil. Quand la transaction sera confirmée, le papier sera sans valeur et ne devrait pas être réutilisé pour des raisons de sécurité.</string>
+    <string name="sweep_wallet_fragment_password">mot de passe</string>
+    <string name="sweep_wallet_fragment_request_wallet_balance_failed_title">Le chargement du solde a échoué</string>
+    <string name="sweep_wallet_fragment_request_wallet_balance_progress">Chargement du solde…</string>
+    <string name="sweep_wallet_fragment_wallet_unknown">Commencez par numériser la clé privée d\'un portefeuille papier. Utilisez le bouton d\'action de l\'appareil photo.</string>
+    <string name="sweep_wallet_options_reload">Recharger le solde</string>
+    <string name="time_today">aujourd\'hui</string>
+    <string name="toast_wallet_reset">Votre portefeuille a été réinitialisé\net prendra du temps pour récupérer.</string>
+    <string name="transaction_row_fee">Frais de réseau</string>
+    <string name="transaction_row_message_own_unbroadcasted">Ce paiement n\'a pas encore été transmis.</string>
+    <string name="transaction_row_message_purpose_key_rotation">Cette transaction renforce votre portefeuille contre le vol. &lt;u>Plus d\'infos.&lt;/u></string>
+    <string name="transaction_row_message_purpose_raise_fee">Cette transaction augmente les frais du réseau pour un paiement précédent.</string>
+    <string name="transaction_row_message_received_dead">Ce paiement a été renversé par son expéditeur.</string>
+    <string name="transaction_row_message_received_direct">Ce paiement a été reçu directement. Il y a un risque qu\'il ne puisse jamais être dépensé.</string>
+    <string name="transaction_row_message_received_dust">Ce faible montant ne pourra probablement jamais être dépensé de façon économique.</string>
+    <string name="transaction_row_message_received_pay_to_many">Ce paiement est distribué à de nombreux portefeuilles en plus du vôtre, ce qui ralentit l\'appli avec le temps. Si vous le pouvez, essayez de recevoir des paiements qui ne soient adressés qu\'à vous.</string>
+    <string name="transaction_row_message_received_unconfirmed_unlocked">Ce paiement devrait pouvoir être dépensé dans quelques minutes.</string>
+    <string name="wallet_address_dialog_fragment_hint">Par souci de confidentialité, votre adresse changera après avoir reçu un paiement.</string>
+    <string name="wallet_address_fragment_clipboard_msg">Adresse Bitcoin copiée dans le presse-papiers</string>
+    <string name="wallet_balance_fragment_replaying">Le solde n\'est pas disponible durant la relecture.</string>
+    <string name="wallet_balance_fragment_too_much">Ce montant est plutôt élevé pour être gardé dans votre poche, veuillez en déplacer un peu dans un endroit plus sûr.</string>
+    <string name="wallet_disclaimer_fragment_remind_backup">Vous devez &lt;u>sauvegarder votre portefeuille&lt;/u> !</string>
+    <string name="wallet_disclaimer_fragment_remind_safety">Utilisez à vos propres risques. Lire les &lt;u>notes de sécurité&lt;/u>.</string>
+    <string name="wallet_donate_address_label">Don pour Bitcoin Wallet</string>
+    <string name="wallet_low_storage_dialog_button_apps">Gérer les applis</string>
+    <string name="wallet_low_storage_dialog_msg">Bitcoin Wallet utilise le stockage interne pour se rappeler des transactions et des blocs. S\'il manque d\'espace, il cessera de fonctionner et vos bitcoins seront à risque !\n\nVoulez-vous ouvrir le gestionnaire d\'applications pour désinstaller des applications inutiles ?</string>
+    <string name="wallet_low_storage_dialog_title">Espace de stockage interne faible !</string>
+    <string name="wallet_old_sdk_dialog_message">Il est probable qu\'une prochaine version de Bitcoin Wallet ne prenne plus en charge votre appareil. Dans certains cas, il peut être difficile de dépenser des bitcoins avec cet appareil.\n\nÀ moins que vous ne sachiez ce que vous faites, il est recommandé de bientôt déplacer vos bitcoins.</string>
+    <string name="wallet_old_sdk_dialog_title">La version d\'Android est obsolète</string>
+    <string name="wallet_options_donate">Faire un don</string>
+    <string name="wallet_options_encrypt_keys_change">Changer le NIP de dépense</string>
+    <string name="wallet_options_encrypt_keys_set">Définir le NIP de dépense</string>
+    <string name="wallet_options_safety">Notes de sécurité</string>
+    <string name="wallet_options_safety_menu">Sécurité</string>
+    <string name="wallet_timeskew_dialog_msg">L\'heure de votre appareil est décalée de %d minutes. Vous ne pouvez probablement pas envoyer ou recevoir de bitcoins à cause de ce problème.\n\nVous devriez vérifier vos paramètres de date, heure, et de fuseau horaire et si nécessaire les corriger.</string>
+    <string name="wallet_timeskew_dialog_title">Vérifier les paramètres de date et heure</string>
+    <string name="wallet_transactions_fragment_coinbase">miné</string>
+    <string name="wallet_transactions_fragment_empty_text_howto">Comment obtenir des bitcoins ?\n\nÉchangez-en contre de l\'argent traditionnel,\nvendez des biens ou des services ou\ngagnez-en en travaillant.</string>
+    <string name="wallet_transactions_fragment_empty_text_received">Aucun bitcoin reçu jusqu\'à présent</string>
+    <string name="wallet_transactions_fragment_empty_text_sent">Aucun bitcoin envoyé jusqu\'à présent</string>
+    <string name="wallet_transactions_fragment_internal">Interne</string>
+    <string name="wallet_transactions_options_filter">Filtre</string>
+    <string name="wallet_transactions_options_filter_all">Tous les paiements</string>
+    <string name="wallet_transactions_options_filter_received">Paiements reçus</string>
+    <string name="wallet_transactions_options_filter_sent">Paiements envoyés</string>
+    <string name="wallet_transactions_row_warning_backup">Félicitations, vous avez reçu votre premier paiement ! Avez-vous déjà &lt;u>sauvegardé votre portefeuille&lt;/u> afin de vous protéger contre une perte ?</string>
+    <string name="wallet_transactions_row_warning_storage_encryption">Astuce : pour augmenter la sécurité de votre portefeuille, vous pouvez &lt;u>chiffrer votre appareil&lt;/u>. Cela protège aussi les données d\'autres applis.</string>
+    <string name="wallet_version_dialog_button_binary">Télécharger</string>
+    <string name="wallet_version_dialog_button_market">Google Play</string>
+    <string name="wallet_version_dialog_msg">Cette version corrige des bogues importants. Pour plus de détails, voir le journal des changements sur Google Play Store.</string>
+    <string name="wallet_version_dialog_msg_deprecated">Si vous ne voyez pas de mise à jour, ceci signifie probablement que votre version d\'Android n\'est plus prise en charge.</string>
+    <string name="wallet_version_dialog_title">Une nouvelle version est proposée !</string>
+</resources>

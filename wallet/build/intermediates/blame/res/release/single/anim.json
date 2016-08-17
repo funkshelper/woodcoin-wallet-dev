@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/anim/transaction_layout_anim.xml",
+        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/anim/transaction_layout_anim.xml"
+    },
+    {
+        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/anim/slide_in_bottom.xml",
+        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/anim/slide_in_bottom.xml"
+    }
+]
