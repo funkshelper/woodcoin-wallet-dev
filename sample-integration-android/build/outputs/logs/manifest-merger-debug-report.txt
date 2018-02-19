@@ -1,55 +1,55 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:2:1-31:12
+ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:3:2-51
+		ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:3:2-51
 	android:versionName
-		ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:5:2-27
-		INJECTED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml
-		INJECTED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml
+		ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:5:2-27
+		INJECTED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml
+		INJECTED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml
 	android:versionCode
-		ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:4:2-25
-		INJECTED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml
-		INJECTED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml
+		ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:4:2-25
+		INJECTED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml
+		INJECTED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:2:11-69
+		ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:7:2-41
+ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:7:2-41
 	android:minSdkVersion
-		ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:7:12-38
+		ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:7:12-38
 uses-feature#android.hardware.touchscreen
-ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:9:2-11:30
+ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:9:2-11:30
 	android:required
-		ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:11:3-27
+		ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:11:3-27
 	android:name
-		ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:10:3-46
+		ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:10:3-46
 supports-screens
-ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:13:2-17:33
+ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:13:2-17:33
 	android:largeScreens
-		ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:15:3-30
+		ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:15:3-30
 	android:smallScreens
-		ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:17:3-30
+		ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:17:3-30
 	android:normalScreens
-		ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:16:3-31
+		ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:16:3-31
 	android:anyDensity
-		ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:14:3-28
+		ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:14:3-28
 application
-ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:19:2-29:16
+ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:19:2-29:16
 	android:label
-		ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:19:15-60
+		ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:19:15-60
 activity#de.schildbach.wallet.integration.sample.SampleActivity
-ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:20:3-28:14
+ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:20:3-28:14
 	android:theme
-		ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:22:4-46
+		ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:22:4-46
 	android:name
-		ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:21:4-73
+		ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:21:4-73
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:23:4-27:20
+ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:23:4-27:20
 action#android.intent.action.MAIN
-ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:24:5-57
+ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:24:5-57
 	android:name
-		ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:24:13-54
+		ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:24:13-54
 category#android.intent.category.LAUNCHER
-ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:26:5-65
+ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:26:5-65
 	android:name
-		ADDED from /home/lukas/work/woodcoin-wallet/sample-integration-android/AndroidManifest.xml:26:15-62
+		ADDED from /home/lukas/woodcoin-wallet-dev/sample-integration-android/AndroidManifest.xml:26:15-62

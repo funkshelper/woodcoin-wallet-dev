@@ -12267,6 +12267,7 @@ org.bitcoinj.core.Sha256Hash:
     111:111:public static org.bitcoinj.core.Sha256Hash of(byte[])
     117:117:public static org.bitcoinj.core.Sha256Hash createDouble(byte[])
     140:144:public static org.bitcoinj.core.Sha256Hash of(java.io.File)
+org.bitcoinj.core.Skein512
 org.bitcoinj.core.StoredBlock:
     public static final int CHAIN_WORK_BYTES
     public static final int COMPACT_SERIALIZED_SIZE
@@ -12382,6 +12383,7 @@ org.bitcoinj.core.Utils:
     627:628:public static java.lang.String getResourceAsString(java.net.URL)
     634:637:public static java.io.InputStream closeUnchecked(java.io.InputStream)
     643:646:public static java.io.OutputStream closeUnchecked(java.io.OutputStream)
+    652:657:public static byte[] skeinDigest(byte[])
 org.bitcoinj.core.VersionMessage:
     public static final int NODE_NETWORK
     public static final int NODE_GETUTXOS
@@ -15510,6 +15512,13 @@ org.xbill.DNS.Address:
     298:305:public static java.net.InetAddress[] getAllByName(java.lang.String)
     319:325:public static java.net.InetAddress getByAddress(java.lang.String)
     356:361:public static java.lang.String getHostName(java.net.InetAddress)
+org.xbill.DNS.CAARecord:
+    private static final long serialVersionUID
+    44:53:public CAARecord(org.xbill.DNS.Name,int,long,int,java.lang.String,java.lang.String)
+    88:88:public int getFlags()
+    94:94:public java.lang.String getTag()
+    100:100:public java.lang.String getValue()
+org.xbill.DNS.CAARecord$Flags
 org.xbill.DNS.CERTRecord:
     public static final int PKIX
     public static final int SPKI
@@ -15585,6 +15594,8 @@ org.xbill.DNS.DNAMERecord:
     private static final long serialVersionUID
     28:29:public DNAMERecord(org.xbill.DNS.Name,int,long,org.xbill.DNS.Name)
     42:42:public org.xbill.DNS.Name getAlias()
+org.xbill.DNS.DNSInput:
+    35:39:public DNSInput(java.nio.ByteBuffer)
 org.xbill.DNS.DNSKEYRecord:
     private static final long serialVersionUID
     59:60:public DNSKEYRecord(org.xbill.DNS.Name,int,long,int,int,int,byte[])
@@ -15840,15 +15851,16 @@ org.xbill.DNS.Message:
     static final int TSIG_INTERMEDIATE
     static final int TSIG_SIGNED
     static final int TSIG_FAILED
-    95:95:public static org.xbill.DNS.Message newUpdate(org.xbill.DNS.Name)
-    144:145:public void setHeader(org.xbill.DNS.Header)
-    176:181:public boolean removeRecord(org.xbill.DNS.Record,int)
-    191:193:public void removeAllRecords(int)
-    202:202:public boolean findRecord(org.xbill.DNS.Record,int)
-    212:215:public boolean findRecord(org.xbill.DNS.Record)
-    226:233:public boolean findRRset(org.xbill.DNS.Name,int,int)
-    244:244:public boolean findRRset(org.xbill.DNS.Name,int)
-    535:538:public void setTSIG(org.xbill.DNS.TSIG,int,org.xbill.DNS.TSIGRecord)
+    96:96:public static org.xbill.DNS.Message newUpdate(org.xbill.DNS.Name)
+    145:146:public Message(java.nio.ByteBuffer)
+    154:155:public void setHeader(org.xbill.DNS.Header)
+    186:191:public boolean removeRecord(org.xbill.DNS.Record,int)
+    201:203:public void removeAllRecords(int)
+    212:212:public boolean findRecord(org.xbill.DNS.Record,int)
+    222:225:public boolean findRecord(org.xbill.DNS.Record)
+    236:243:public boolean findRRset(org.xbill.DNS.Name,int,int)
+    254:256:public boolean findRRset(org.xbill.DNS.Name,int)
+    545:548:public void setTSIG(org.xbill.DNS.TSIG,int,org.xbill.DNS.TSIGRecord)
 org.xbill.DNS.Mnemonic:
     static final int CASE_SENSITIVE
     static final int CASE_UPPER
@@ -15924,6 +15936,10 @@ org.xbill.DNS.Name:
     718:720:public byte[] toWire()
 org.xbill.DNS.NameTooLongException:
     21:22:public NameTooLongException(java.lang.String)
+org.xbill.DNS.OPENPGPKEYRecord:
+    private static final long serialVersionUID
+    36:38:public OPENPGPKEYRecord(org.xbill.DNS.Name,int,long,byte[])
+    73:73:public byte[] getCert()
 org.xbill.DNS.OPTRecord:
     private static final long serialVersionUID
     77:78:public OPTRecord(int,int,int,int)
@@ -16025,6 +16041,16 @@ org.xbill.DNS.SIGBase:
 org.xbill.DNS.SIGRecord:
     private static final long serialVersionUID
     46:48:public SIGRecord(org.xbill.DNS.Name,int,long,int,int,long,java.util.Date,java.util.Date,int,org.xbill.DNS.Name,byte[])
+org.xbill.DNS.SMIMEARecord:
+    private static final long serialVersionUID
+    85:93:public SMIMEARecord(org.xbill.DNS.Name,int,long,int,int,int,byte[])
+    137:137:public int getCertificateUsage()
+    143:143:public int getSelector()
+    149:149:public int getMatchingType()
+    155:155:public final byte[] getCertificateAssociationData()
+org.xbill.DNS.SMIMEARecord$CertificateUsage
+org.xbill.DNS.SMIMEARecord$MatchingType
+org.xbill.DNS.SMIMEARecord$Selector
 org.xbill.DNS.SOARecord:
     private static final long serialVersionUID
     112:112:public org.xbill.DNS.Name getHost()
@@ -16115,21 +16141,19 @@ org.xbill.DNS.TLSARecord$CertificateUsage
 org.xbill.DNS.TLSARecord$MatchingType
 org.xbill.DNS.TLSARecord$Selector
 org.xbill.DNS.TSIG:
-    private static final java.lang.String HMAC_MD5_STR
-    private static final java.lang.String HMAC_SHA1_STR
-    private static final java.lang.String HMAC_SHA224_STR
-    private static final java.lang.String HMAC_SHA256_STR
-    private static final java.lang.String HMAC_SHA384_STR
-    private static final java.lang.String HMAC_SHA512_STR
     public static final short FUDGE
-    63:83:private void getDigest()
-    92:97:public TSIG(org.xbill.DNS.Name,org.xbill.DNS.Name,byte[])
-    107:108:public TSIG(org.xbill.DNS.Name,byte[])
-    118:130:public TSIG(org.xbill.DNS.Name,java.lang.String,java.lang.String)
-    144:160:public TSIG(java.lang.String,java.lang.String,java.lang.String)
-    172:173:public TSIG(java.lang.String,java.lang.String)
-    187:198:public static org.xbill.DNS.TSIG fromString(java.lang.String)
-    309:347:public void applyStream(org.xbill.DNS.Message,org.xbill.DNS.TSIGRecord,boolean)
+    64:70:public static org.xbill.DNS.Name algorithmToName(java.lang.String)
+    75:78:public static java.lang.String nameToAlgorithm(org.xbill.DNS.Name)
+    123:131:private void init_hmac(java.lang.String,javax.crypto.SecretKey)
+    140:146:public TSIG(org.xbill.DNS.Name,org.xbill.DNS.Name,byte[])
+    155:160:public TSIG(org.xbill.DNS.Name,org.xbill.DNS.Name,javax.crypto.SecretKey)
+    170:174:public TSIG(javax.crypto.Mac,org.xbill.DNS.Name)
+    184:185:public TSIG(org.xbill.DNS.Name,byte[])
+    195:208:public TSIG(org.xbill.DNS.Name,java.lang.String,java.lang.String)
+    222:223:public TSIG(java.lang.String,java.lang.String,java.lang.String)
+    235:236:public TSIG(java.lang.String,java.lang.String)
+    250:261:public static org.xbill.DNS.TSIG fromString(java.lang.String)
+    374:412:public void applyStream(org.xbill.DNS.Message,org.xbill.DNS.TSIGRecord,boolean)
 org.xbill.DNS.TSIGRecord:
     private static final long serialVersionUID
     180:180:public int getOriginalID()
@@ -16203,6 +16227,8 @@ org.xbill.DNS.Type:
     public static final int NSEC3
     public static final int NSEC3PARAM
     public static final int TLSA
+    public static final int SMIMEA
+    public static final int OPENPGPKEY
     public static final int SPF
     public static final int TKEY
     public static final int TSIG
@@ -16212,9 +16238,10 @@ org.xbill.DNS.Type:
     public static final int MAILA
     public static final int ANY
     public static final int URI
+    public static final int CAA
     public static final int DLV
-    296:297:private Type()
-    352:363:public static boolean isRR(int)
+    308:309:private Type()
+    364:375:public static boolean isRR(int)
 org.xbill.DNS.TypeBitmap:
     private static final long serialVersionUID
     27:32:public TypeBitmap(int[])
@@ -16388,26 +16415,20 @@ org.xbill.DNS.ZoneTransferIn:
     private static final int IXFR_ADD
     private static final int AXFR
     private static final int END
-    219:221:public static org.xbill.DNS.ZoneTransferIn newAXFR(org.xbill.DNS.Name,java.lang.String,int,org.xbill.DNS.TSIG)
-    236:236:public static org.xbill.DNS.ZoneTransferIn newAXFR(org.xbill.DNS.Name,java.lang.String,org.xbill.DNS.TSIG)
-    254:254:public static org.xbill.DNS.ZoneTransferIn newIXFR(org.xbill.DNS.Name,long,boolean,java.net.SocketAddress,org.xbill.DNS.TSIG)
-    275:277:public static org.xbill.DNS.ZoneTransferIn newIXFR(org.xbill.DNS.Name,long,boolean,java.lang.String,int,org.xbill.DNS.TSIG)
-    296:296:public static org.xbill.DNS.ZoneTransferIn newIXFR(org.xbill.DNS.Name,long,boolean,java.lang.String,org.xbill.DNS.TSIG)
-    304:304:public org.xbill.DNS.Name getName()
-    312:312:public int getType()
-    334:336:public void setDClass(int)
-    633:633:public boolean isAXFR()
-    654:654:public boolean isIXFR()
-    664:665:public java.util.List getIXFR()
-    676:677:public boolean isCurrent()
+    218:220:public static org.xbill.DNS.ZoneTransferIn newAXFR(org.xbill.DNS.Name,java.lang.String,int,org.xbill.DNS.TSIG)
+    235:235:public static org.xbill.DNS.ZoneTransferIn newAXFR(org.xbill.DNS.Name,java.lang.String,org.xbill.DNS.TSIG)
+    252:252:public static org.xbill.DNS.ZoneTransferIn newIXFR(org.xbill.DNS.Name,long,boolean,java.net.SocketAddress,org.xbill.DNS.TSIG)
+    273:275:public static org.xbill.DNS.ZoneTransferIn newIXFR(org.xbill.DNS.Name,long,boolean,java.lang.String,int,org.xbill.DNS.TSIG)
+    294:294:public static org.xbill.DNS.ZoneTransferIn newIXFR(org.xbill.DNS.Name,long,boolean,java.lang.String,org.xbill.DNS.TSIG)
+    302:302:public org.xbill.DNS.Name getName()
+    310:310:public int getType()
+    332:334:public void setDClass(int)
+    631:631:public boolean isAXFR()
+    652:652:public boolean isIXFR()
+    662:663:public java.util.List getIXFR()
+    674:675:public boolean isCurrent()
 org.xbill.DNS.spi.DNSJavaNameService
 org.xbill.DNS.spi.DNSJavaNameServiceDescriptor
-org.xbill.DNS.utils.HMAC:
-    private static final byte IPAD
-    private static final byte OPAD
-    52:57:public HMAC(java.security.MessageDigest,int,byte[])
-    88:89:public HMAC(java.security.MessageDigest,byte[])
-    102:103:public HMAC(java.lang.String,byte[])
 org.xbill.DNS.utils.base16:
     private static final java.lang.String Base16
     19:19:private base16()

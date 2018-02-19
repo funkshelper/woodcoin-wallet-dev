@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/debug/values-w1000dp-v13/values-w1000dp-v13.xml",
+        "outputFile": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/values-w1000dp-v13/values-w1000dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 105
                 },
                 "from": {
-                    "file": "/home/lukas/work/woodcoin-wallet/wallet/res/values-w1000dp/dimens.xml",
+                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-w1000dp/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 1,
@@ -30,7 +30,7 @@
                     "endOffset": 162
                 },
                 "from": {
-                    "file": "/home/lukas/work/woodcoin-wallet/wallet/res/values-w1000dp/dimens.xml",
+                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-w1000dp/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 1,

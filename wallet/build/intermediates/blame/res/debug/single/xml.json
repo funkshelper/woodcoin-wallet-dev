@@ -1,22 +1,22 @@
 [
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/debug/xml/wallet_balance_widget.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/xml/wallet_balance_widget.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/xml/preference_headers.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/xml/preference_headers.xml"
     },
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/debug/xml/preference_about.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/xml/preference_about.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/xml/wallet_balance_widget.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/xml/wallet_balance_widget.xml"
     },
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/debug/xml/preference_headers.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/xml/preference_headers.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/xml/preference_about.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/xml/preference_about.xml"
     },
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/debug/xml/preference_diagnostics.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/xml/preference_diagnostics.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/xml/preference_diagnostics.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/xml/preference_diagnostics.xml"
     },
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/debug/xml/preference_settings.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/xml/preference_settings.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/xml/preference_settings.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/xml/preference_settings.xml"
     }
 ]

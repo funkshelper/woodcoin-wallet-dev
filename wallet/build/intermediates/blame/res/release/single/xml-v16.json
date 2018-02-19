@@ -1,6 +1,6 @@
 [
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/xml-v16/wallet_balance_widget.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/xml-v16/wallet_balance_widget.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/xml-v16/wallet_balance_widget.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/xml-v16/wallet_balance_widget.xml"
     }
 ]

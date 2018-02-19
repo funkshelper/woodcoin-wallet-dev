@@ -9,67 +9,81 @@
         <dex dex="/home/lukas/work/woodcoin-wallet/sample-integration-android/build/intermediates/pre-dexed/debug/integration-android_1c76a87df2eab7c0a9b57dbf1e0d98775adef910.jar" />
     </item>
     <item
-        jar="/root/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.6/562424e36df3d2327e8e9301a76027fca17d54ea/slf4j-api-1.7.6.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="562424e36df3d2327e8e9301a76027fca17d54ea">
-        <dex dex="/home/lukas/work/woodcoin-wallet/sample-integration-android/build/intermediates/pre-dexed/debug/slf4j-api-1.7.6_3538ad9e4f41bb65573a19596ebb3d4b1ae296b7.jar" />
-    </item>
-    <item
-        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/16.0.1/5fa98cd1a63c99a44dd8d3b77e4762b066a5d0c5/guava-16.0.1.jar"
+        jar="/home/lukas/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/16.0.1/5fa98cd1a63c99a44dd8d3b77e4762b066a5d0c5/guava-16.0.1.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="5fa98cd1a63c99a44dd8d3b77e4762b066a5d0c5">
-        <dex dex="/home/lukas/work/woodcoin-wallet/sample-integration-android/build/intermediates/pre-dexed/debug/guava-16.0.1_9c92da3104278c58621f3b07ddf904f4041c7d71.jar" />
+        <dex dex="/home/lukas/woodcoin-wallet-dev/sample-integration-android/build/intermediates/pre-dexed/debug/guava-16.0.1_2b57b086e16d88f258126e3b76c492cf53aaa390.jar" />
     </item>
     <item
-        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/2.5.0/a10732c76bfacdbd633a7eb0f7968b1059a65dfa/protobuf-java-2.5.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="a10732c76bfacdbd633a7eb0f7968b1059a65dfa">
-        <dex dex="/home/lukas/work/woodcoin-wallet/sample-integration-android/build/intermediates/pre-dexed/debug/protobuf-java-2.5.0_85c72664620cdcae0037ac4d4086d520a344dc51.jar" />
-    </item>
-    <item
-        jar="/root/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.12.3/ef3afa5e4718e895c8bbece98a0b25b4b39c829d/bitcoinj-core-0.12.3.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="ef3afa5e4718e895c8bbece98a0b25b4b39c829d">
-        <dex dex="/home/lukas/work/woodcoin-wallet/sample-integration-android/build/intermediates/pre-dexed/debug/bitcoinj-core-0.12.3_947dba5a1321d690f644d5e6d4f55011657bd207.jar" />
-    </item>
-    <item
-        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jar="/home/lukas/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
-        <dex dex="/home/lukas/work/woodcoin-wallet/sample-integration-android/build/intermediates/pre-dexed/debug/jsr305-2.0.1_337933e5d59cf143dbb8bbc6baaf86936956d5b2.jar" />
+        <dex dex="/home/lukas/woodcoin-wallet-dev/sample-integration-android/build/intermediates/pre-dexed/debug/jsr305-2.0.1_3b3ed0ad5dc5f0aeaa5045b5421a40f802bf3f7b.jar" />
     </item>
     <item
-        jar="/root/.gradle/caches/modules-2/files-2.1/com.madgag.spongycastle/core/1.51.0.0/f642963312ea0e615ad65f28adc5a5b3a2a0862/core-1.51.0.0.jar"
+        jar="/home/lukas/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/2.5.0/a10732c76bfacdbd633a7eb0f7968b1059a65dfa/protobuf-java-2.5.0.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="0f642963312ea0e615ad65f28adc5a5b3a2a0862">
-        <dex dex="/home/lukas/work/woodcoin-wallet/sample-integration-android/build/intermediates/pre-dexed/debug/core-1.51.0.0_d5a17c845865d7ef87044f8badf72c176d59ad48.jar" />
+        sha1="a10732c76bfacdbd633a7eb0f7968b1059a65dfa">
+        <dex dex="/home/lukas/woodcoin-wallet-dev/sample-integration-android/build/intermediates/pre-dexed/debug/protobuf-java-2.5.0_9cddae3ec038f0e527c67a6d2597fa172566758c.jar" />
     </item>
     <item
-        jar="/root/.gradle/caches/modules-2/files-2.1/com.lambdaworks/scrypt/1.4.0/906506b74f30c8c20bccd9ed4a11112d8941fe87/scrypt-1.4.0.jar"
+        jar="/home/lukas/.gradle/caches/modules-2/files-2.1/org.bitcoinj/bitcoinj-core/0.12.3/ef3afa5e4718e895c8bbece98a0b25b4b39c829d/bitcoinj-core-0.12.3.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="906506b74f30c8c20bccd9ed4a11112d8941fe87">
-        <dex dex="/home/lukas/work/woodcoin-wallet/sample-integration-android/build/intermediates/pre-dexed/debug/scrypt-1.4.0_417df8ffff4a1d63891ceb1db091a6c30a3933b3.jar" />
+        sha1="ef3afa5e4718e895c8bbece98a0b25b4b39c829d">
+        <dex dex="/home/lukas/woodcoin-wallet-dev/sample-integration-android/build/intermediates/pre-dexed/debug/bitcoinj-core-0.12.3_60189ed910e9810087ac6d5fbb8f9bcc5e0f4dae.jar" />
     </item>
     <item
-        jar="/root/.gradle/caches/modules-2/files-2.1/org.bitcoinj/orchid/1.0/bd98285f39f88875bb91bde940d6ca2d020edaa4/orchid-1.0.jar"
+        jar="/home/lukas/work/woodcoin-wallet-dev/integration-android/build/libs/integration-android.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="53ec08d453e6b08c31b8400737bb15074dfb240d">
+        <dex dex="/home/lukas/work/woodcoin-wallet-dev/sample-integration-android/build/intermediates/pre-dexed/debug/integration-android_2442804144ae947f937126756408d189886ca589.jar" />
+    </item>
+    <item
+        jar="/home/lukas/.gradle/caches/modules-2/files-2.1/org.bitcoinj/orchid/1.0/bd98285f39f88875bb91bde940d6ca2d020edaa4/orchid-1.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="bd98285f39f88875bb91bde940d6ca2d020edaa4">
-        <dex dex="/home/lukas/work/woodcoin-wallet/sample-integration-android/build/intermediates/pre-dexed/debug/orchid-1.0_07affba48af68897319518ccbbdc017a5e3ead0f.jar" />
+        <dex dex="/home/lukas/woodcoin-wallet-dev/sample-integration-android/build/intermediates/pre-dexed/debug/orchid-1.0_571e3f3406f487b846871efdf3b1648b7a43c9b9.jar" />
     </item>
     <item
-        jar="/root/.gradle/caches/modules-2/files-2.1/net.jcip/jcip-annotations/1.0/afba4942caaeaf46aab0b976afd57cc7c181467e/jcip-annotations-1.0.jar"
+        jar="/home/lukas/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.6/562424e36df3d2327e8e9301a76027fca17d54ea/slf4j-api-1.7.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="562424e36df3d2327e8e9301a76027fca17d54ea">
+        <dex dex="/home/lukas/woodcoin-wallet-dev/sample-integration-android/build/intermediates/pre-dexed/debug/slf4j-api-1.7.6_aee83e88448ea2bc51a5e8c9139b6a9029c56862.jar" />
+    </item>
+    <item
+        jar="/home/lukas/.gradle/caches/modules-2/files-2.1/net.jcip/jcip-annotations/1.0/afba4942caaeaf46aab0b976afd57cc7c181467e/jcip-annotations-1.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="afba4942caaeaf46aab0b976afd57cc7c181467e">
-        <dex dex="/home/lukas/work/woodcoin-wallet/sample-integration-android/build/intermediates/pre-dexed/debug/jcip-annotations-1.0_a08693c64e6e58f375ce782f983f23ad2656715f.jar" />
+        <dex dex="/home/lukas/woodcoin-wallet-dev/sample-integration-android/build/intermediates/pre-dexed/debug/jcip-annotations-1.0_070dca261c19483cd29dd57ad1ffd1b481b30e6e.jar" />
+    </item>
+    <item
+        jar="/home/lukas/.gradle/caches/modules-2/files-2.1/com.madgag.spongycastle/core/1.51.0.0/f642963312ea0e615ad65f28adc5a5b3a2a0862/core-1.51.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0f642963312ea0e615ad65f28adc5a5b3a2a0862">
+        <dex dex="/home/lukas/woodcoin-wallet-dev/sample-integration-android/build/intermediates/pre-dexed/debug/core-1.51.0.0_02b96999797ace145072a000f754d4da0ea24d54.jar" />
+    </item>
+    <item
+        jar="/home/lukas/.gradle/caches/modules-2/files-2.1/com.lambdaworks/scrypt/1.4.0/906506b74f30c8c20bccd9ed4a11112d8941fe87/scrypt-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="906506b74f30c8c20bccd9ed4a11112d8941fe87">
+        <dex dex="/home/lukas/woodcoin-wallet-dev/sample-integration-android/build/intermediates/pre-dexed/debug/scrypt-1.4.0_1f9c59ed3d54f39600e253e6a727bee01e6130f0.jar" />
+    </item>
+    <item
+        jar="/home/lukas/woodcoin-wallet-dev/integration-android/build/libs/integration-android.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5263c1b220b3372a1434c3996d7d96d1654e143a">
+        <dex dex="/home/lukas/woodcoin-wallet-dev/sample-integration-android/build/intermediates/pre-dexed/debug/integration-android_02443783c64eb8663182f23fae2bb6d862794358.jar" />
     </item>
 
 </items>

@@ -1,6 +1,6 @@
 [
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/sample-integration-android/build/intermediates/res/merged/debug/layout/sample_activity.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/sample-integration-android/res/layout/sample_activity.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/sample-integration-android/build/intermediates/res/merged/debug/layout/sample_activity.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/sample-integration-android/res/layout/sample_activity.xml"
     }
 ]

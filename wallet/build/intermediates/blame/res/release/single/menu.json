@@ -1,66 +1,66 @@
 [
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/menu/wallet_options.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/menu/wallet_options.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/wallet_options.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/wallet_options.xml"
     },
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/menu/wallet_transactions_context.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/menu/wallet_transactions_context.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/sending_addresses_fragment_options.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/sending_addresses_fragment_options.xml"
     },
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/menu/send_coins_activity_options.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/menu/send_coins_activity_options.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/wallet_transactions_fragment_options.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/wallet_transactions_fragment_options.xml"
     },
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/menu/sweep_wallet_fragment_options.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/menu/sweep_wallet_fragment_options.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/wallet_addresses_context.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/wallet_addresses_context.xml"
     },
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/menu/exchange_rates_fragment_options.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/menu/exchange_rates_fragment_options.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/wallet_balance_fragment_options.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/wallet_balance_fragment_options.xml"
     },
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/menu/send_coins_fragment_options.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/menu/send_coins_fragment_options.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/send_coins_activity_options.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/send_coins_activity_options.xml"
     },
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/menu/exchange_rates_context.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/menu/exchange_rates_context.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/send_coins_fragment_options.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/send_coins_fragment_options.xml"
     },
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/menu/sending_addresses_context.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/menu/sending_addresses_context.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/sending_addresses_context.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/sending_addresses_context.xml"
     },
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/menu/wallet_addresses_context.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/menu/wallet_addresses_context.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/exchange_rates_context.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/exchange_rates_context.xml"
     },
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/menu/sending_addresses_fragment_options.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/menu/sending_addresses_fragment_options.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/blocks_context.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/blocks_context.xml"
     },
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/menu/request_coins_fragment_options.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/menu/request_coins_fragment_options.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/exchange_rates_fragment_options.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/exchange_rates_fragment_options.xml"
     },
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/menu/wallet_addresses_fragment_options.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/menu/wallet_addresses_fragment_options.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/request_coins_activity_options.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/request_coins_activity_options.xml"
     },
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/menu/wallet_balance_fragment_options.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/menu/wallet_balance_fragment_options.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/request_coins_fragment_options.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/request_coins_fragment_options.xml"
     },
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/menu/request_coins_activity_options.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/menu/request_coins_activity_options.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/wallet_transactions_context.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/wallet_transactions_context.xml"
     },
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/menu/wallet_transactions_fragment_options.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/menu/wallet_transactions_fragment_options.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/wallet_addresses_fragment_options.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/wallet_addresses_fragment_options.xml"
     },
     {
-        "merged": "/home/lukas/work/woodcoin-wallet/wallet/build/intermediates/res/merged/release/menu/blocks_context.xml",
-        "source": "/home/lukas/work/woodcoin-wallet/wallet/res/menu/blocks_context.xml"
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/sweep_wallet_fragment_options.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/sweep_wallet_fragment_options.xml"
     }
 ]
