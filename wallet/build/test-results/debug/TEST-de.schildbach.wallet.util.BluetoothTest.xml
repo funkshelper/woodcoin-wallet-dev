@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="de.schildbach.wallet.util.BluetoothTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-01-04T16:59:51" hostname="debian-droid-dev" time="0.016">
-  <properties/>
-  <testcase name="compressDecompressMac" classname="de.schildbach.wallet.util.BluetoothTest" time="0.009"/>
-  <testcase name="getBluetooth" classname="de.schildbach.wallet.util.BluetoothTest" time="0.002"/>
-  <testcase name="isBluetoothUri" classname="de.schildbach.wallet.util.BluetoothTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

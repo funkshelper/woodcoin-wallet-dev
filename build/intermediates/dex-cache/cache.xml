@@ -82,7 +82,7 @@
         jar="/home/lukas/woodcoin-wallet-dev/integration-android/build/libs/integration-android.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="5263c1b220b3372a1434c3996d7d96d1654e143a">
+        sha1="1caef1dd307846dfc23ebca4c0d5e3eaf95e74b3">
         <dex dex="/home/lukas/woodcoin-wallet-dev/sample-integration-android/build/intermediates/pre-dexed/debug/integration-android_02443783c64eb8663182f23fae2bb6d862794358.jar" />
     </item>
 

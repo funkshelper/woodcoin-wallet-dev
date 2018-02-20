@@ -36,12 +36,12 @@
         "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/exchange_rates_context.xml"
     },
     {
-        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/blocks_context.xml",
-        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/blocks_context.xml"
-    },
-    {
         "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/exchange_rates_fragment_options.xml",
         "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/exchange_rates_fragment_options.xml"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/blocks_context.xml",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/menu/blocks_context.xml"
     },
     {
         "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/menu/request_coins_activity_options.xml",

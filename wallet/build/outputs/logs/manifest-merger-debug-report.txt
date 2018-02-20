@@ -347,7 +347,7 @@ ADDED from /home/lukas/woodcoin-wallet-dev/wallet/AndroidManifest.xml:192:3-196:
 receiver#de.schildbach.wallet.WalletBalanceWidgetProvider
 ADDED from /home/lukas/woodcoin-wallet-dev/wallet/AndroidManifest.xml:198:3-208:14
 	android:label
-		ADDED from /home/lukas/woodcoin-wallet-dev/wallet/AndroidManifest.xml:200:4-42
+		ADDED from /home/lukas/woodcoin-wallet-dev/wallet/AndroidManifest.xml:200:4-43
 	android:name
 		ADDED from /home/lukas/woodcoin-wallet-dev/wallet/AndroidManifest.xml:199:4-67
 intent-filter#android.appwidget.action.APPWIDGET_UPDATE

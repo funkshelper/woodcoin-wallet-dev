@@ -224,11 +224,11 @@
   <string name="preferences_category_labs">Laboratuvarlar</string>
   <string name="preferences_precision_title">İsimlendirme ve hassasiyet</string>
   <string name="preferences_precision_summary">Meblağların gösterileceği ünite. Hesaplalamaları etkilemez.</string>
-  <string name="preferences_precision_labels_8">BTC, 8 ondalık</string>
-  <string name="preferences_precision_labels_6">BTC, 6 ondalık</string>
-  <string name="preferences_precision_labels_4">BTC, 4 ondalık</string>
-  <string name="preferences_precision_labels_2_3">mBTC, 2 ondalık</string>
-  <string name="preferences_precision_labels_0_6">µBTC, ondalıksız</string>
+  <string name="preferences_precision_labels_8">LOG, 8 ondalık</string>
+  <string name="preferences_precision_labels_6">LOG, 6 ondalık</string>
+  <string name="preferences_precision_labels_4">LOG, 4 ondalık</string>
+  <string name="preferences_precision_labels_2_3">mLOG, 2 ondalık</string>
+  <string name="preferences_precision_labels_0_6">µLOG, ondalıksız</string>
   <string name="preferences_own_name_title">Kendi isminiz</string>
   <string name="preferences_own_name_summary">Ödeme taleplerine eklenecek isminiz. Kısa tutmaya çalışın.</string>
   <string name="preferences_send_coins_autoclose_title">Bitcoin gönderme diyaloğunu otomatik kapat</string>

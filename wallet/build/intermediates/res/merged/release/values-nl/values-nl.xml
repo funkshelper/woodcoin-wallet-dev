@@ -262,11 +262,11 @@
     <string name="preferences_initiate_reset_title">Reset blockchain</string>
     <string name="preferences_own_name_summary">Je naam, voor toevoegen aan betaal verzoek. Probeer het kort te houden.</string>
     <string name="preferences_own_name_title">Je naam</string>
-    <string name="preferences_precision_labels_0_6">µBTC, geen decimalen</string>
-    <string name="preferences_precision_labels_2_3">mBTC, 2 decimale getallen</string>
-    <string name="preferences_precision_labels_4">BTC, 4 decimale getallen</string>
-    <string name="preferences_precision_labels_6">BTC, 6 decimale getallen</string>
-    <string name="preferences_precision_labels_8">BTC, 8 decimale getallen</string>
+    <string name="preferences_precision_labels_0_6">µLOG, geen decimalen</string>
+    <string name="preferences_precision_labels_2_3">mLOG, 2 decimale getallen</string>
+    <string name="preferences_precision_labels_4">LOG, 4 decimale getallen</string>
+    <string name="preferences_precision_labels_6">LOG, 6 decimale getallen</string>
+    <string name="preferences_precision_labels_8">LOG, 8 decimale getallen</string>
     <string name="preferences_precision_summary">Grootheid om waarden in te tonen. Dit heeft geen invloed op berekeningen.</string>
     <string name="preferences_precision_title">Waarde en precisie</string>
     <string name="preferences_report_issue_summary">Vergaar informatie aangaande uw probleem en verstuur via e-mail een melding aan de ontwikkelaars</string>
@@ -296,7 +296,7 @@
     <string name="report_issue_dialog_report">Verslag</string>
     <string name="report_issue_dialog_title_crash">Vorige crash gedetecteerd</string>
     <string name="report_issue_dialog_title_issue">Meld probleem</string>
-    <string name="request_coins_activity_title">Verzoek BTC</string>
+    <string name="request_coins_activity_title">Verzoek LOG</string>
     <string name="request_coins_clipboard_msg">Bitcoin verzoek gekopieërd naar klembord</string>
     <string name="request_coins_fragment_accept_bluetooth_payment">Accepteer betaling via Bluetooth voor betrouwbaardere verwerking</string>
     <string name="request_coins_fragment_amount_label">Verzocht bedrag (optioneel)</string>
@@ -310,7 +310,7 @@
     <string name="restore_wallet_dialog_success_replay">Uw wallet is met succes hersteld. Nu zal het saldo worden vastgesteld. Dit kan enige tijd duren.</string>
     <string name="scan_camera_problem_dialog_message">Er is een probleem met de camera. Waarschijnlijk moet je het apparaat herstarten.</string>
     <string name="scan_camera_problem_dialog_title">Sorry</string>
-    <string name="send_coins_activity_title">Verzend BTC</string>
+    <string name="send_coins_activity_title">Verzend LOG</string>
     <string name="send_coins_error_msg">Coins versturen mislukt!</string>
     <string name="send_coins_failed_msg">Mislukt!</string>
     <string name="send_coins_fragment_amount_label">Te betalen bedrag</string>

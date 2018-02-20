@@ -223,11 +223,11 @@
   <string name="preferences_category_labs">Labb</string>
   <string name="preferences_precision_title">Valör och precision</string>
   <string name="preferences_precision_summary">Enhet för att visa belopp i. Det här påverkar inte uträkningar.</string>
-  <string name="preferences_precision_labels_8">BTC, 8 decimaler</string>
-  <string name="preferences_precision_labels_6">BTC, 6 decimaler</string>
-  <string name="preferences_precision_labels_4">BTC, 4 decimaler</string>
-  <string name="preferences_precision_labels_2_3">mBTC, 2 decimaler</string>
-  <string name="preferences_precision_labels_0_6">µBTC, inga decimaler</string>
+  <string name="preferences_precision_labels_8">LOG, 8 decimaler</string>
+  <string name="preferences_precision_labels_6">LOG, 6 decimaler</string>
+  <string name="preferences_precision_labels_4">LOG, 4 decimaler</string>
+  <string name="preferences_precision_labels_2_3">mLOG, 2 decimaler</string>
+  <string name="preferences_precision_labels_0_6">µLOG, inga decimaler</string>
   <string name="preferences_own_name_title">Ditt namn</string>
   <string name="preferences_own_name_summary">Skriv ditt namn för att användas vid betalningsmottagande. Gärna kort.</string>
   <string name="preferences_send_coins_autoclose_title">Stäng \"skicka bitcoins\"-dialogen automatiskt.</string>

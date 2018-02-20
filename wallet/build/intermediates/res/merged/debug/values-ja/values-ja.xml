@@ -6,7 +6,7 @@
     <string name="about_credits_bitcoinj_title">このアプリはbitcoinj %s を使用しています。</string>
     <string name="about_credits_icon_title">このアプリは\'bitboy\'によるアイコンを使用しています。</string>
     <string name="about_credits_zxing_title">このアプリは\'zxing\'を使用しています。</string>
-    <string name="about_license_title">ライセンス</string>
+    <string name="about_license_title">ライセス</string>
     <string name="about_market_app_summary">アプリのレビューや評価をしてください</string>
     <string name="about_market_app_title">Google Playのページ</string>
     <string name="about_source_title">ソースコード</string>
@@ -37,7 +37,7 @@
     <string name="backup_wallet_dialog_password_mismatch">一致しません！</string>
     <string name="backup_wallet_dialog_warning_encrypted">あなたのウォレットは送金用PINで保護されています。バックアップ用パスワードに加えてPINも忘れないようにしてください。</string>
     <string name="bitmap_fragment_share">共有…</string>
-    <string name="block_row_now">たった今</string>
+    <string name="block_row_now">たっ今</string>
     <string name="blockchain_state_progress_days">%1$s, %2$d日遅れ</string>
     <string name="blockchain_state_progress_downloading">ネットワークと同期中</string>
     <string name="blockchain_state_progress_hours">%1$s, %2$d時間遅れ</string>
@@ -103,8 +103,8 @@
     <string name="export_keys_dialog_mail_intent_failed">ウォレットのアーカイブに失敗しました。</string>
     <string name="export_keys_dialog_mail_subject">ビットコインウォレットのバックアップ</string>
     <string name="export_keys_dialog_mail_text">添付した暗号化ファイルにはビットコイン秘密鍵が含まれています、いかなる時でも安全に保管してくだしさい。暗号化パスワードを忘れないようにしてください！</string>
-    <string name="export_keys_dialog_success">&lt;p>あなたのウォレットは&lt;tt>%s&lt;/tt>にバックアップされました。&lt;/p>&lt;p>もしSDカードが利用できる機種であれば、SDカードに&lt;i>バックアップすべきです&lt;/i>。そしてSDカードを取り出し、安全な場所へ保管してください。もしSDカードが&lt;i>取り出せない&lt;/i>場合、そのデバイス以外へバックアップを移す必要があります。&lt;/p>&lt;p>&lt;b>もしそのデバイスのみにバックアップがある場合、同時に両方を失ってしまうかもしれません!&lt;/b>&lt;/p>&lt;p>どのような場合であれ、バックアップパスワードは覚えておいてください。今すぐウォレットをアーカイブしますか?&lt;/p></string>
-    <string name="export_keys_dialog_title">ウォレットのバックアップ</string>
+    <string name="export_keys_dialog_success">&lt;p>あなたのウォレットは&lt;tt>%s&lt;/tt>にバックアップされました。&lt;/p>&lt;p>もしSDカードが利用できる機種であれば、SDカードに&lt;i>バックアップすべきです&lt;/i>。そしてSDカードを取り出し、安全な場所へ保管してください。もしSDカードが&lt;i>取り出せない&lt;/i>場合、そのデバイス以外へバックアップを移す必要があります。&lt;/p>&lt;p>&lt;b>もしそのデイスのみにバックアップがある場合、同時に両方を失ってしまうかもしれません!&lt;/b>&lt;/p>&lt;p>どのような場合であれ、バックアップパスワードは覚えておいてください。今すぐウォレットをアーカイブしますか?&lt;/p></string>
+    <string name="export_keys_dialog_title">ウォレッのバックアップ</string>
     <string name="extended_public_key_fragment_share">xpubを共有……</string>
     <string name="extended_public_key_fragment_title">拡張公開鍵</string>
     <string name="help_request_coins">\n
@@ -246,7 +246,7 @@
     <string name="preferences_category_labs">ラボ</string>
     <string name="preferences_connectivity_notification_summary">通知エリア内に現在の接続ピア数を表示する。</string>
     <string name="preferences_connectivity_notification_title">接続インジゲーター</string>
-    <string name="preferences_data_usage_summary">モバイルネットワークにおけるデータ使用制限のオプションを表示する。</string>
+    <string name="preferences_data_usage_summary">モバイルネットワークにおけるデータ使用制限オプションを表示する。</string>
     <string name="preferences_data_usage_title">データの使用方法</string>
     <string name="preferences_extended_public_key_summary">他のアプリやサービスにインポートできるように、ウォレットの拡張公開鍵を表示します。注意: その場合そのアプリに金銭的なプライバシー情報を公開することになります。</string>
     <string name="preferences_extended_public_key_title">xpubを表示</string>
@@ -256,12 +256,12 @@
     <string name="preferences_initiate_reset_title">ブロックチェーンのリセット</string>
     <string name="preferences_own_name_summary">支払いリクエストに含める、あなた自身の名前。短いものにしてください。</string>
     <string name="preferences_own_name_title">自身の名前</string>
-    <string name="preferences_precision_labels_0_6">µBTC、小数点無し</string>
-    <string name="preferences_precision_labels_2_3">mBTC、小数点以下2桁</string>
-    <string name="preferences_precision_labels_4">BTC、小数点以下4桁</string>
-    <string name="preferences_precision_labels_6">BTC、小数点以下6桁</string>
-    <string name="preferences_precision_labels_8">BTC、小数点以下8桁</string>
-    <string name="preferences_precision_summary">総額の表示単位。これは計算に影響しません。</string>
+    <string name="preferences_precision_labels_0_6">µLOG、小数点無し</string>
+    <string name="preferences_precision_labels_2_3">mLOG、小数点以下2桁</string>
+    <string name="preferences_precision_labels_4">LOG、小数点以下4桁</string>
+    <string name="preferences_precision_labels_6">LOG、小数点以下6桁</string>
+    <string name="preferences_precision_labels_8">LOG、小数点以下8桁</string>
+    <string name="preferences_precision_summary">総額の表示単位。これは計算に影しません。</string>
     <string name="preferences_precision_title">通貨単位の切り下げと切り上げ</string>
     <string name="preferences_report_issue_summary">問題に関する情報を収集し、開発者へメールで報告する。</string>
     <string name="preferences_report_issue_title">問題を報告</string>
@@ -295,7 +295,7 @@
     <string name="request_coins_fragment_accept_bluetooth_payment">より信頼できる手順としてBluetooth経由での支払いを許可</string>
     <string name="request_coins_fragment_amount_label">リクエストする額(省略可能)</string>
     <string name="request_coins_fragment_initiate_request_nfc">または、NFCが使用可能なデバイスアをタップしてください。</string>
-    <string name="request_coins_fragment_initiate_request_qr">このコードを送金者にスキャンさせてください。</string>
+    <string name="request_coins_fragment_initiate_request_qr">このコドを送金者にスキャンさせてください。</string>
     <string name="request_coins_no_local_app_msg">他のビットコインアプリが見付かりませんでした</string>
     <string name="request_coins_options_local_app_title">ローカルアプリからのリクエスト</string>
     <string name="request_coins_share_dialog_title">ビットコインのリクエストを共有……</string>

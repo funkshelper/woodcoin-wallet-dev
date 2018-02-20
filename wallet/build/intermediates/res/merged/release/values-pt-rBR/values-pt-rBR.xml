@@ -262,11 +262,11 @@
     <string name="preferences_initiate_reset_title">Reiniciar Blockchain</string>
     <string name="preferences_own_name_summary">O seu nome, para ser adicionado nas requisições de pagamentos. Tente usar um nome curto.</string>
     <string name="preferences_own_name_title">Seu nome</string>
-    <string name="preferences_precision_labels_0_6">µBTC, nenhuma casa decimal</string>
-    <string name="preferences_precision_labels_2_3">mBTC, 2 casas decimais</string>
-    <string name="preferences_precision_labels_4">BTC, 4 casas decimais</string>
-    <string name="preferences_precision_labels_6">BTC, 6 casas decimais</string>
-    <string name="preferences_precision_labels_8">BTC, 8 casas decimais</string>
+    <string name="preferences_precision_labels_0_6">µLOG, nenhuma casa decimal</string>
+    <string name="preferences_precision_labels_2_3">mLOG, 2 casas decimais</string>
+    <string name="preferences_precision_labels_4">LOG, 4 casas decimais</string>
+    <string name="preferences_precision_labels_6">LOG, 6 casas decimais</string>
+    <string name="preferences_precision_labels_8">LOG, 8 casas decimais</string>
     <string name="preferences_precision_summary">Unidade para mostrar valores. Isso não afeta os cálculos.</string>
     <string name="preferences_precision_title">Denominação e precisão</string>
     <string name="preferences_report_issue_summary">Coleta informações sobre o problema e envia um relatório aos desenvolvedores.</string>
@@ -380,7 +380,7 @@
     <string name="wallet_balance_fragment_too_much">Este valor é bastante alto para transportar no seu bolso. Por favor, envie um pouco para um lugar mais seguro.</string>
     <string name="wallet_disclaimer_fragment_remind_backup">Você precisa fazer um &lt;u>back up de sua carteira&lt;/u>!</string>
     <string name="wallet_disclaimer_fragment_remind_safety">Use por sua conta e risco. Leia as &lt;u>indicações de segurança&lt;/u>.</string>
-    <string name="wallet_donate_address_label">Doação pra Bitcoin carteira</string>
+    <string name="wallet_donate_address_label">Doaço pra Bitcoin carteira</string>
     <string name="wallet_low_storage_dialog_button_apps">Gerenciar aplicativos</string>
     <string name="wallet_low_storage_dialog_msg">Bitcoin Wallet usa o armazenamento interno para armazenar transações e blocos. Se seu dispositivo ficar sem espaço, ele vai parar de trabalhar e seus Bitcoins estarão em risco!\n\nDeseja abrir o Gerenciador de Aplicativos para desinstalar aplicativos desnecessários?</string>
     <string name="wallet_low_storage_dialog_title">dispositivo nternal espaço de armazenamento baixa</string>

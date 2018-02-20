@@ -267,11 +267,11 @@
     <string name="preferences_initiate_reset_title">Reinicialitza la cadena de blocs</string>
     <string name="preferences_own_name_summary">El teu propi nom, que s\'afegeix a les sol·licituds de pagament. Intenta que sigui breu.</string>
     <string name="preferences_own_name_title">Nom propi</string>
-    <string name="preferences_precision_labels_0_6">µBTC, sense decimals</string>
-    <string name="preferences_precision_labels_2_3">mBTC, 2 xifres decimals</string>
-    <string name="preferences_precision_labels_4">BTC, 4 xifres decimals</string>
-    <string name="preferences_precision_labels_6">BTC, 6 xifres decimals</string>
-    <string name="preferences_precision_labels_8">BTC, 8 xifres decimals</string>
+    <string name="preferences_precision_labels_0_6">µLOG, sense decimals</string>
+    <string name="preferences_precision_labels_2_3">mLOG, 2 xifres decimals</string>
+    <string name="preferences_precision_labels_4">LOG, 4 xifres decimals</string>
+    <string name="preferences_precision_labels_6">LOG, 6 xifres decimals</string>
+    <string name="preferences_precision_labels_8">LOG, 8 xifres decimals</string>
     <string name="preferences_precision_summary">Unitat en que es mostren els imports. No afecta al còmput.</string>
     <string name="preferences_precision_title">Denominació i exactitud</string>
     <string name="preferences_report_issue_summary">Agafa informació sobre el problema i envia un correu amb el teu informe als desenvolupadors.</string>

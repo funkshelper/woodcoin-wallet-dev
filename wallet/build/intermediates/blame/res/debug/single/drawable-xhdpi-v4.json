@@ -4,12 +4,12 @@
         "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_clear_grey600_24dp.png"
     },
     {
-        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_local_offer_white_24dp.png",
-        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_local_offer_white_24dp.png"
-    },
-    {
         "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_pin_drop_white_24dp.png",
         "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_pin_drop_white_24dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_local_offer_white_24dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_local_offer_white_24dp.png"
     },
     {
         "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_refresh_white_24dp.png",
@@ -24,12 +24,12 @@
         "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/appwidget_inner_pressed_c.9.png"
     },
     {
-        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_qr.png",
-        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_action_qr.png"
-    },
-    {
         "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_delete_white_24dp.png",
         "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_qr.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_action_qr.png"
     },
     {
         "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/drawable-xhdpi-v4/currency_symbol_ubtc.png",

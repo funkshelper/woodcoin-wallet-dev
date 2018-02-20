@@ -195,7 +195,7 @@
 
         <receiver
             android:name="de.schildbach.wallet.WalletBalanceWidgetProvider"
-            android:label="Bitcoin Wallet Balance" >
+            android:label="Woodcoin Wallet Balance" >
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
             </intent-filter>

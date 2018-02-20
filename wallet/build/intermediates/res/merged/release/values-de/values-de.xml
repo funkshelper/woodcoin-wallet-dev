@@ -266,11 +266,11 @@
     <string name="preferences_initiate_reset_title">Blockchain zurücksetzen</string>
     <string name="preferences_own_name_summary">Dein eigener Name, der zu Zahlungsanforderungen hinzugefügt wird. Versuch ihn kurz zu halten.</string>
     <string name="preferences_own_name_title">Eigener Name</string>
-    <string name="preferences_precision_labels_0_6">µBTC, keine Dezimalen</string>
-    <string name="preferences_precision_labels_2_3">mBTC, 2 Dezimalen</string>
-    <string name="preferences_precision_labels_4">BTC, 4 Dezimalen</string>
-    <string name="preferences_precision_labels_6">BTC, 6 Dezimalen</string>
-    <string name="preferences_precision_labels_8">BTC, 8 Dezimalen</string>
+    <string name="preferences_precision_labels_0_6">µLOG, keine Dezimalen</string>
+    <string name="preferences_precision_labels_2_3">mLOG, 2 Dezimalen</string>
+    <string name="preferences_precision_labels_4">LOG, 4 Dezimalen</string>
+    <string name="preferences_precision_labels_6">LOG, 6 Dezimalen</string>
+    <string name="preferences_precision_labels_8">LOG, 8 Dezimalen</string>
     <string name="preferences_precision_summary">Maßeinheit für die Anzeige von Werten. Dies beeinflußt keine Berechnungen.</string>
     <string name="preferences_precision_title">Stückelung und Genauigkeit</string>
     <string name="preferences_remind_balance_summary">Nach einigen Wochen Nicht-Nutzung wird die App daran erinnern wenn sich noch Bitcoins in der Wallet befinden.</string>

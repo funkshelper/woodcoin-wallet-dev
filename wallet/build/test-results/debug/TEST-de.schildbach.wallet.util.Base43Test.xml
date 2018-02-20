@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="de.schildbach.wallet.util.Base43Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-01-04T16:59:51" hostname="debian-droid-dev" time="0.02">
-  <properties/>
-  <testcase name="decode" classname="de.schildbach.wallet.util.Base43Test" time="0.01"/>
-  <testcase name="encode" classname="de.schildbach.wallet.util.Base43Test" time="0.007"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

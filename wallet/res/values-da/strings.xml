@@ -224,11 +224,11 @@
   <string name="preferences_category_labs">Laboratoriet</string>
   <string name="preferences_precision_title">Denominering og præcision</string>
   <string name="preferences_precision_summary">Enhed som beløb vises i. Dette påvirker ikke beregninger.</string>
-  <string name="preferences_precision_labels_8">BTC, 8 decimaler</string>
-  <string name="preferences_precision_labels_6">BTC, 6 decimaler</string>
-  <string name="preferences_precision_labels_4">BTC, 4 decimaler</string>
-  <string name="preferences_precision_labels_2_3">mBTC, 2 decimaler</string>
-  <string name="preferences_precision_labels_0_6">µBTC, uden decimaler</string>
+  <string name="preferences_precision_labels_8">LOG, 8 decimaler</string>
+  <string name="preferences_precision_labels_6">LOG, 6 decimaler</string>
+  <string name="preferences_precision_labels_4">LOG, 4 decimaler</string>
+  <string name="preferences_precision_labels_2_3">mLOG, 2 decimaler</string>
+  <string name="preferences_precision_labels_0_6">µLOG, uden decimaler</string>
   <string name="preferences_own_name_title">Eget navn</string>
   <string name="preferences_own_name_summary">Dit eget navn, som skal føjes til betalingsforespørgsler. Prøv at holde det kort.</string>
   <string name="preferences_send_coins_autoclose_title">Luk automatisk dialogen Send coins</string>

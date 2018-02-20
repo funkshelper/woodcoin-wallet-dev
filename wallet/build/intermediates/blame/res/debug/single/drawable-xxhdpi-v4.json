@@ -56,12 +56,12 @@
         "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xxhdpi/ic_create_white_24dp.png"
     },
     {
-        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_send_white_24dp.png",
-        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xxhdpi/ic_send_white_24dp.png"
-    },
-    {
         "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_photo_camera_white_24dp.png",
         "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xxhdpi/ic_photo_camera_white_24dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_send_white_24dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xxhdpi/ic_send_white_24dp.png"
     },
     {
         "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_more_vert_white_24dp.png",
