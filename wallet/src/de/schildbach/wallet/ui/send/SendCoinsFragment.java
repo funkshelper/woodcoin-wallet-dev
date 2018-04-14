@@ -421,38 +421,36 @@ public final class SendCoinsFragment extends Fragment
 		}
 
 		@Override
-		public void onLoadFinished(final Loader<Cursor> cursor, final Cursor data)
-		{
-			if (cursor instanceof CursorLoader)
-				receivingAddressBookCursor = data;
-			else
-				receivingAddressNameCursor = data;
-			swapTargetCursor();
-		}
+        public void onLoadFinished(final Loader<Cursor> loader, Cursor data) {
+            if (data.getCount() == 0)
+                data = null;
+            if (loader instanceof CursorLoader)
+                receivingAddressBookCursor = data;
+            else
+                receivingAddressNameCursor = data;
+            swapTargetCursor();
+        }
 
-		@Override
-		public void onLoaderReset(final Loader<Cursor> cursor)
-		{
-			if (cursor instanceof CursorLoader)
-				receivingAddressBookCursor = null;
-			else
-				receivingAddressNameCursor = null;
-			swapTargetCursor();
-		}
+        @Override
+        public void onLoaderReset(final Loader<Cursor> loader) {
+            if (loader instanceof CursorLoader)
+                receivingAddressBookCursor = null;
+            else
+                receivingAddressNameCursor = null;
+            swapTargetCursor();
+        }
 
-		private void swapTargetCursor()
-		{
-			final List<Cursor> cursors = new LinkedList<Cursor>();
-			if (receivingAddressBookCursor != null)
-				cursors.add(receivingAddressBookCursor);
-			if (receivingAddressNameCursor != null)
-				cursors.add(receivingAddressNameCursor);
-
-			if (!cursors.isEmpty())
-				targetAdapter.swapCursor(new MergeCursor(cursors.toArray(new Cursor[0])));
-			else
-				targetAdapter.swapCursor(null);
-		}
+        private void swapTargetCursor() {
+            if (receivingAddressBookCursor == null && receivingAddressNameCursor == null)
+                targetAdapter.swapCursor(null);
+            else if (receivingAddressBookCursor != null && receivingAddressNameCursor == null)
+                targetAdapter.swapCursor(receivingAddressBookCursor);
+            else if (receivingAddressBookCursor == null && receivingAddressNameCursor != null)
+                targetAdapter.swapCursor(receivingAddressNameCursor);
+            else
+                targetAdapter.swapCursor(
+                        new MergeCursor(new Cursor[] { receivingAddressBookCursor, receivingAddressNameCursor }));
+        }
 	}
 
 	private static class ReceivingAddressNameLoader extends AsyncTaskLoader<Cursor>
