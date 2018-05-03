@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/values-large-land-v4/values-large-land-v4.xml",
+        "outputFile": "/Users/STUFF/woodcoin-wallet-commit/wallet/build/intermediates/res/merged/debug/values-large-land-v4/values-large-land-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 119
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-large-land/layouts.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-large-land/layouts.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 1,
@@ -30,7 +30,7 @@
                     "endOffset": 208
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-large-land/layouts.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-large-land/layouts.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 1,
@@ -49,7 +49,7 @@
                     "endOffset": 294
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-large-land/layouts.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-large-land/layouts.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 1,

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/lukas/woodcoin-wallet-dev/sample-integration-android/assets"/></dataSet><dataSet config="release"><source path="/home/lukas/woodcoin-wallet-dev/sample-integration-android/src/release/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/STUFF/woodcoin-wallet-commit/sample-integration-android/assets"/></dataSet><dataSet config="release"><source path="/Users/STUFF/woodcoin-wallet-commit/sample-integration-android/src/release/assets"/></dataSet></merger>

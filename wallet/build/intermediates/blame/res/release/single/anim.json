@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/anim/slide_in_bottom.xml",
-        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/anim/slide_in_bottom.xml"
+        "merged": "/Users/STUFF/woodcoin-wallet-commit/wallet/build/intermediates/res/merged/release/anim/transaction_layout_anim.xml",
+        "source": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/anim/transaction_layout_anim.xml"
     },
     {
-        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/anim/transaction_layout_anim.xml",
-        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/anim/transaction_layout_anim.xml"
+        "merged": "/Users/STUFF/woodcoin-wallet-commit/wallet/build/intermediates/res/merged/release/anim/slide_in_bottom.xml",
+        "source": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/anim/slide_in_bottom.xml"
     }
 ]
