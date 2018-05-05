@@ -26,7 +26,7 @@
         jar="/Users/STUFF/woodcoin-wallet-commit/integration-android/build/libs/integration-android.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="f226cae175d87c3891963ddba74bdab4b7274a46">
+        sha1="b1e5f22b746366905c2176bc01db973449d76143">
         <dex dex="/Users/STUFF/woodcoin-wallet-commit/sample-integration-android/build/intermediates/pre-dexed/debug/integration-android_2a83d451c741fce84ccc2b1f6fc8c0729ffda059.jar" />
     </item>
     <item
