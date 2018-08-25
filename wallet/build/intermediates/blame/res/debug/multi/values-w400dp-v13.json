@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/values-w400dp-v13/values-w400dp-v13.xml",
+        "outputFile": "/Users/STUFF/woodcoin-wallet-commit/wallet/build/intermediates/res/merged/debug/values-w400dp-v13/values-w400dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 105
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-w400dp/dimens.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-w400dp/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 1,

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/values-hr/values-hr.xml",
+        "outputFile": "/Users/STUFF/woodcoin-wallet-commit/wallet/build/intermediates/res/merged/debug/values-hr/values-hr.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 141
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 2,
@@ -30,7 +30,7 @@
                     "endOffset": 237
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 65,
                         "startColumn": 2,
@@ -49,7 +49,7 @@
                     "endOffset": 324
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 64,
                         "startColumn": 2,
@@ -68,7 +68,7 @@
                     "endOffset": 380
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 2,
@@ -87,7 +87,7 @@
                     "endOffset": 427
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 2,
@@ -106,7 +106,7 @@
                     "endOffset": 485
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 80,
                         "startColumn": 2,
@@ -125,7 +125,7 @@
                     "endOffset": 582
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 2,
@@ -144,7 +144,7 @@
                     "endOffset": 655
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 2,
@@ -163,7 +163,7 @@
                     "endOffset": 731
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 2,
@@ -182,7 +182,7 @@
                     "endOffset": 821
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 2,
@@ -201,7 +201,7 @@
                     "endOffset": 901
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 2,
@@ -220,7 +220,7 @@
                     "endOffset": 976
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 2,
@@ -239,7 +239,7 @@
                     "endOffset": 1050
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 2,
@@ -258,7 +258,7 @@
                     "endOffset": 1152
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 2,
@@ -277,7 +277,7 @@
                     "endOffset": 1228
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 2,
@@ -296,7 +296,7 @@
                     "endOffset": 1289
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 82,
                         "startColumn": 2,
@@ -315,7 +315,7 @@
                     "endOffset": 1368
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 2,
@@ -334,7 +334,7 @@
                     "endOffset": 1460
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 2,
@@ -353,7 +353,7 @@
                     "endOffset": 1540
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
@@ -372,7 +372,7 @@
                     "endOffset": 1624
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 2,
@@ -391,7 +391,7 @@
                     "endOffset": 1726
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 2,
@@ -410,7 +410,7 @@
                     "endOffset": 1831
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 2,
@@ -429,7 +429,7 @@
                     "endOffset": 1918
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 2,
@@ -448,7 +448,7 @@
                     "endOffset": 2001
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 2,
@@ -467,7 +467,7 @@
                     "endOffset": 2046
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 2,
@@ -486,7 +486,7 @@
                     "endOffset": 2095
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 69,
                         "startColumn": 2,
@@ -505,7 +505,7 @@
                     "endOffset": 2143
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 74,
                         "startColumn": 2,
@@ -524,7 +524,7 @@
                     "endOffset": 2192
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 72,
                         "startColumn": 2,
@@ -543,7 +543,7 @@
                     "endOffset": 2244
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 68,
                         "startColumn": 2,
@@ -562,7 +562,7 @@
                     "endOffset": 2290
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 2,
@@ -581,7 +581,7 @@
                     "endOffset": 2336
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 70,
                         "startColumn": 2,
@@ -600,7 +600,7 @@
                     "endOffset": 2385
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 2,
@@ -619,7 +619,7 @@
                     "endOffset": 2447
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 2,
@@ -638,7 +638,7 @@
                     "endOffset": 2506
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 2,
@@ -657,7 +657,7 @@
                     "endOffset": 2575
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 2,
@@ -676,7 +676,7 @@
                     "endOffset": 2624
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 76,
                         "startColumn": 2,
@@ -695,7 +695,7 @@
                     "endOffset": 2704
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 2,
@@ -714,7 +714,7 @@
                     "endOffset": 2782
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 2,
@@ -733,7 +733,7 @@
                     "endOffset": 2857
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 2,
@@ -752,7 +752,7 @@
                     "endOffset": 2962
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 2,
@@ -771,7 +771,7 @@
                     "endOffset": 3029
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 2,
@@ -790,7 +790,7 @@
                     "endOffset": 3098
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 2,
@@ -809,7 +809,7 @@
                     "endOffset": 3198
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 2,
@@ -828,7 +828,7 @@
                     "endOffset": 3300
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 2,
@@ -847,7 +847,7 @@
                     "endOffset": 3363
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 2,
@@ -866,7 +866,7 @@
                     "endOffset": 3435
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 2,
@@ -885,7 +885,7 @@
                     "endOffset": 3518
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 2,
@@ -904,7 +904,7 @@
                     "endOffset": 3600
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 2,
@@ -923,7 +923,7 @@
                     "endOffset": 3677
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 2,
@@ -942,7 +942,7 @@
                     "endOffset": 3754
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 2,
@@ -961,7 +961,7 @@
                     "endOffset": 3852
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 2,
@@ -980,7 +980,7 @@
                     "endOffset": 3949
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 2,
@@ -999,7 +999,7 @@
                     "endOffset": 4040
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 2,
@@ -1018,7 +1018,7 @@
                     "endOffset": 4180
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 2,
@@ -1037,7 +1037,7 @@
                     "endOffset": 4256
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 2,
@@ -1056,7 +1056,7 @@
                     "endOffset": 4330
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 2,
@@ -1075,7 +1075,7 @@
                     "endOffset": 4408
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 2,
@@ -1094,7 +1094,7 @@
                     "endOffset": 4470
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 2,
@@ -1113,7 +1113,7 @@
                     "endOffset": 4549
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 2,
@@ -1132,7 +1132,7 @@
                     "endOffset": 4616
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 2,
@@ -1151,7 +1151,7 @@
                     "endOffset": 4684
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 2,
@@ -1170,7 +1170,7 @@
                     "endOffset": 4776
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 2,
@@ -1189,7 +1189,7 @@
                     "endOffset": 4854
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 2,
@@ -1208,7 +1208,7 @@
                     "endOffset": 4913
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 2,
@@ -1227,7 +1227,7 @@
                     "endOffset": 4970
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 2,
@@ -1246,7 +1246,7 @@
                     "endOffset": 5015
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 81,
                         "startColumn": 2,
@@ -1265,7 +1265,7 @@
                     "endOffset": 5123
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 2,
@@ -1284,7 +1284,7 @@
                     "endOffset": 5208
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 2,
@@ -1303,7 +1303,7 @@
                     "endOffset": 5294
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 2,
@@ -1322,7 +1322,7 @@
                     "endOffset": 5362
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 2,
@@ -1341,7 +1341,7 @@
                     "endOffset": 5427
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 2,
@@ -1360,7 +1360,7 @@
                     "endOffset": 5521
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 2,
@@ -1379,7 +1379,7 @@
                     "endOffset": 5596
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 2,
@@ -1398,7 +1398,7 @@
                     "endOffset": 5705
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 2,
@@ -1417,7 +1417,7 @@
                     "endOffset": 5810
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 2,
@@ -1436,7 +1436,7 @@
                     "endOffset": 5886
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 2,
@@ -1455,7 +1455,7 @@
                     "endOffset": 5958
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 2,
@@ -1474,7 +1474,7 @@
                     "endOffset": 6034
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 2,
@@ -1493,7 +1493,7 @@
                     "endOffset": 6157
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 2,
@@ -1512,7 +1512,7 @@
                     "endOffset": 6241
                 },
                 "from": {
-                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-hr/strings.xml",
+                    "file": "/Users/STUFF/woodcoin-wallet-commit/wallet/res/values-hr/strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 2,

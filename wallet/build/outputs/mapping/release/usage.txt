@@ -3131,7 +3131,7 @@ android.support.v4.widget.ViewDragHelper$Callback:
     148:148:public ViewDragHelper$Callback()
 android.support.v7.cardview.BuildConfig
 android.support.v7.cardview.R:
-    9:9:public R()
+    9:39:public R()
 android.support.v7.cardview.R$attr
 android.support.v7.cardview.R$color:
     23:23:public R$color()
@@ -3143,7 +3143,7 @@ android.support.v7.cardview.R$styleable:
     39:39:public R$styleable()
 android.support.v7.recyclerview.BuildConfig
 android.support.v7.recyclerview.R:
-    9:9:public R()
+    9:22:public R()
 android.support.v7.recyclerview.R$attr
 android.support.v7.recyclerview.R$dimen
 android.support.v7.recyclerview.R$id
@@ -11256,7 +11256,7 @@ de.schildbach.wallet.Constants:
     public static final int NOTIFICATION_ID_CONNECTED
     public static final int NOTIFICATION_ID_COINS_RECEIVED
     public static final int NOTIFICATION_ID_INACTIVITY
-    39:39:public Constants()
+    39:49:public Constants()
 de.schildbach.wallet.Constants$Files:
     49:49:public Constants$Files()
 de.schildbach.wallet.ExchangeRatesProvider:
@@ -12299,8 +12299,8 @@ org.bitcoinj.core.Transaction$SigHash:
 org.bitcoinj.core.TransactionBroadcast:
     43:91:private TransactionBroadcast(org.bitcoinj.core.Transaction)
     70:70:public static org.bitcoinj.core.TransactionBroadcast createMockBroadcast(org.bitcoinj.core.Transaction,com.google.common.util.concurrent.SettableFuture)
-    263:264:public void setProgressCallback(org.bitcoinj.core.TransactionBroadcast$ProgressCallback)
-    276:285:public void setProgressCallback(org.bitcoinj.core.TransactionBroadcast$ProgressCallback,java.util.concurrent.Executor)
+    266:267:public void setProgressCallback(org.bitcoinj.core.TransactionBroadcast$ProgressCallback)
+    279:288:public void setProgressCallback(org.bitcoinj.core.TransactionBroadcast$ProgressCallback,java.util.concurrent.Executor)
     40:40:synthetic TransactionBroadcast(org.bitcoinj.core.Transaction,org.bitcoinj.core.TransactionBroadcast$1)
 org.bitcoinj.core.TransactionBroadcast$1:
     70:70:TransactionBroadcast$1(org.bitcoinj.core.Transaction,com.google.common.util.concurrent.SettableFuture)
@@ -12362,7 +12362,7 @@ org.bitcoinj.core.UTXOsMessage:
 org.bitcoinj.core.Utils:
     public static final java.lang.String BITCOIN_SIGNED_MESSAGE_HEADER
     private static java.util.concurrent.BlockingQueue mockSleepQueue
-    51:51:public Utils()
+    51:583:public Utils()
     141:141:public static boolean isLessThanUnsigned(long,long)
     148:148:public static boolean isLessThanOrEqualToUnsigned(long,long)
     175:186:public static byte[] reverseDwordBytes(byte[],int)
@@ -12632,7 +12632,7 @@ org.bitcoinj.protocols.payments.PaymentProtocol:
     public static final java.lang.String MIMETYPE_PAYMENTREQUEST
     public static final java.lang.String MIMETYPE_PAYMENT
     public static final java.lang.String MIMETYPE_PAYMENTACK
-    48:48:public PaymentProtocol()
+    48:417:public PaymentProtocol()
     129:153:public static void signPaymentRequest(org.bitcoin.protocols.payments.Protos$PaymentRequest$Builder,java.security.cert.X509Certificate[],java.security.PrivateKey)
 org.bitcoinj.protocols.payments.PaymentProtocolException$InvalidPaymentRequestURL
 org.bitcoinj.protocols.payments.PaymentProtocolException$InvalidPaymentURL:
@@ -12910,7 +12910,7 @@ org.bitcoinj.utils.MonetaryFormat:
     285:289:public org.bitcoinj.utils.MonetaryFormat withLocale(java.util.Locale)
 org.bitcoinj.utils.TaggableObject
 org.bitcoinj.utils.Threading:
-    37:37:public Threading()
+    37:88:public Threading()
     68:75:public static void waitForUserCode()
     163:164:public static void warnOnLockCycles()
     171:172:public static void ignoreLockCycles()
