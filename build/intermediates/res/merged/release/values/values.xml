@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferences_block_explorer_labels">
+		<item>Woodcoin Official</item>
+		</string-array>
+    <string-array name="preferences_block_explorer_values">
+		<item>http://explorer.woodcoin.org</item>
+	</string-array>
+    <string-array name="preferences_precision_labels">
+		<item>@string/preferences_precision_labels_8</item>
+		<item>@string/preferences_precision_labels_6</item>
+		<item>@string/preferences_precision_labels_4</item>
+		<item>@string/preferences_precision_labels_2_3</item>
+		<item>@string/preferences_precision_labels_0_6</item>
+	</string-array>
+    <string-array name="preferences_precision_values">
+		<item>8</item>
+		<item>6</item>
+		<item>4</item>
+		<item>2/3</item>
+		<item>0/6</item>
+	</string-array>
+    <bool name="show_wallet_address_dialog_hint">false</bool>
+    <color name="bg_bright">#ffffffff</color>
+    <color name="bg_dialog_title">@android:color/transparent</color>
+    <color name="bg_form">@android:color/white</color>
+    <color name="bg_less_bright">#ffe8e8f0</color>
+    <color name="bg_list">#40ffffff</color>
+    <color name="bg_list_selected">#40808090</color>
+    <color name="bg_panel">#fff2f2f8</color>
+    <color name="cardview_dark_background">#FF202020</color>
+    <color name="cardview_light_background">#FFFAFAFA</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="fg_error">#ffff0000</color>
+    <color name="fg_insignificant">#ffbbbbbb</color>
+    <color name="fg_less_significant">#ff666666</color>
+    <color name="fg_network_insignificant">#ffddaa77</color>
+    <color name="fg_network_significant">#ffffcc99</color>
+    <color name="fg_password_strength_fair">#c06000</color>
+    <color name="fg_password_strength_strong">#00a000</color>
+    <color name="fg_password_strength_weak">#ff0000</color>
+    <color name="fg_significant">#ff000000</color>
+    <color name="fg_value_negative">#ff990000</color>
+    <color name="fg_value_positive">#ff008000</color>
+    <color name="scan_dot">#ff6600</color>
+    <color name="scan_laser">#cc0000</color>
+    <color name="scan_mask">#60000000</color>
+    <color name="scan_result_dots">#c099cc00</color>
+    <color name="scan_result_view">#b0000000</color>
+    <declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/><attr format="dimension" name="cardElevation"/><attr format="dimension" name="cardMaxElevation"/><attr format="boolean" name="cardUseCompatPadding"/><attr format="boolean" name="cardPreventCornerOverlap"/><attr format="dimension" name="contentPadding"/><attr format="dimension" name="contentPaddingLeft"/><attr format="dimension" name="contentPaddingRight"/><attr format="dimension" name="contentPaddingTop"/><attr format="dimension" name="contentPaddingBottom"/></declare-styleable>
+    <declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/></declare-styleable>
+    <dimen name="bitmap_dialog_qr_size">224dp</dimen>
+    <dimen name="card_padding_horizontal">6dp</dimen>
+    <dimen name="card_padding_vertical">2dp</dimen>
+    <dimen name="cardview_compat_inset_shadow">1dp</dimen>
+    <dimen name="cardview_default_elevation">2dp</dimen>
+    <dimen name="cardview_default_radius">2dp</dimen>
+    <dimen name="divider_currency_padding">0dp</dimen>
+    <dimen name="exchange_rate_pane_width">352sp</dimen>
+    <dimen name="font_size_huge">34sp</dimen>
+    <dimen name="font_size_large">24sp</dimen>
+    <dimen name="font_size_normal">18sp</dimen>
+    <dimen name="font_size_small">15sp</dimen>
+    <dimen name="font_size_tiny">12sp</dimen>
+    <dimen name="font_size_xlarge">28sp</dimen>
+    <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
+    <dimen name="list_entry_padding_horizontal">12dp</dimen>
+    <dimen name="list_entry_padding_horizontal_cram">6dp</dimen>
+    <dimen name="list_entry_padding_horizontal_lax">20dp</dimen>
+    <dimen name="list_entry_padding_vertical">6dp</dimen>
+    <dimen name="list_entry_padding_vertical_lax">10dp</dimen>
+    <dimen name="request_coins_qr_size">128dp</dimen>
+    <dimen name="symbol_size_normal">15sp</dimen>
+    <dimen name="wallet_address_qr_size">80dp</dimen>
+    <item name="action_bar_fragment" type="id"/>
+    <item name="item_touch_helper_previous_elevation" type="id"/>
+    <string name="about_community_googleplus_summary">Discussions about the app</string>
+    <string name="about_community_googleplus_title">Google+ community</string>
+    <string name="about_copyright_title">Copyright</string>
+    <string name="about_credits_bitcoinj_title">This app is using bitcoinj %s</string>
+    <string name="about_credits_icon_title">This app is using an icon by \'bitboy\'</string>
+    <string name="about_credits_zxing_title">This app is using \'zxing\'</string>
+    <string name="about_license_title">License</string>
+    <string name="about_market_app_summary">Review or rate the app</string>
+    <string name="about_market_app_title">Google Play page</string>
+    <string name="about_source_title">Source code</string>
+    <string name="about_title">About</string>
+    <string name="about_version_title">Version</string>
+    <string name="action_browse">Browse</string>
+    <string name="action_show_qr">Show QR code</string>
+    <string name="address_book_activity_title">Address book</string>
+    <string name="address_book_context_copy_to_clipboard_title">Copy to clipboard</string>
+    <string name="address_book_context_edit_title">Edit address</string>
+    <string name="address_book_context_remove_title">Remove address</string>
+    <string name="address_book_context_send_title">Send Woodcoins to address</string>
+    <string name="address_book_empty_text">No entries in address book</string>
+    <string name="address_book_list_receiving_random">Old addresses</string>
+    <string name="address_book_list_receiving_title">Your addresses</string>
+    <string name="address_book_list_sending_title">Sending addresses</string>
+    <string name="address_book_options_paste_from_clipboard_empty">Clipboard is empty</string>
+    <string name="address_book_options_paste_from_clipboard_invalid">Data from clipboard is unrecognizable</string>
+    <string name="address_book_options_paste_from_clipboard_own_address">The address on the clipboard is your own.</string>
+    <string name="address_book_options_paste_from_clipboard_title">Paste from clipboard</string>
+    <string name="address_book_options_scan_invalid">Scanned data is unrecognizable</string>
+    <string name="address_book_options_scan_own_address">The scanned address is your own.</string>
+    <string name="address_book_options_scan_title">Scan address</string>
+    <string name="address_book_row_message_compromised_key">This address might be compromised. You should not use it any more for receiving coins.</string>
+    <string name="address_unlabeled">(unlabeled)</string>
+    <string name="app_name">Woodcoin</string>
+    <string name="backup_wallet_dialog_message">Your backup will be encrypted with the chosen password and written to external storage.</string>
+    <string name="backup_wallet_dialog_password_again">again</string>
+    <string name="backup_wallet_dialog_password_mismatch">mismatch!</string>
+    <string name="backup_wallet_dialog_warning_encrypted">Your wallet is protected by a spending PIN. Make sure you remember the PIN in addition to the backup password!</string>
+    <string name="bitmap_fragment_share">Share…</string>
+    <string name="block_row_now">just now</string>
+    <string name="blockchain_state_progress_days">%1$s, %2$d days behind</string>
+    <string name="blockchain_state_progress_downloading">Synchronizing with network</string>
+    <string name="blockchain_state_progress_hours">%1$s, %2$d hours behind</string>
+    <string name="blockchain_state_progress_months">%1$s, %2$d months behind</string>
+    <string name="blockchain_state_progress_problem_network">Synchronizing: Network problem</string>
+    <string name="blockchain_state_progress_problem_storage">Synchronizing: Storage problem</string>
+    <string name="blockchain_state_progress_stalled">Synchronization stalled</string>
+    <string name="blockchain_state_progress_weeks">%1$s, %2$d weeks behind</string>
+    <string name="button_add">Add</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_copy">Copy</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_dismiss">Dismiss</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_help">Help</string>
+    <string name="button_ok">OK</string>
+    <string name="button_paste">Paste</string>
+    <string name="button_remove">Remove</string>
+    <string name="button_request_coins">Request coins</string>
+    <string name="button_retry">Retry</string>
+    <string name="button_scan">Scan</string>
+    <string name="button_send_coins">Send coins</string>
+    <string name="button_set">Set</string>
+    <string name="button_set_as_default">Set as default</string>
+    <string name="button_settings">Settings</string>
+    <string name="button_share">Share</string>
+    <string name="edit_address_book_entry_dialog_address_label">Address</string>
+    <string name="edit_address_book_entry_dialog_button_edit">Save</string>
+    <string name="edit_address_book_entry_dialog_label_label">Label</string>
+    <string name="edit_address_book_entry_dialog_title_add">Add sending address</string>
+    <string name="edit_address_book_entry_dialog_title_add_receive">Add label to your address</string>
+    <string name="edit_address_book_entry_dialog_title_edit">Edit label of sending address</string>
+    <string name="edit_address_book_entry_dialog_title_edit_receive">Edit label of your address</string>
+    <string name="encrypt_keys_dialog_message">Spending from your wallet will be protected with the chosen PIN.</string>
+    <string name="encrypt_keys_dialog_password_old">Old PIN</string>
+    <string name="encrypt_keys_dialog_password_strength_fair">fair</string>
+    <string name="encrypt_keys_dialog_password_strength_good">good</string>
+    <string name="encrypt_keys_dialog_password_strength_strong">strong</string>
+    <string name="encrypt_keys_dialog_password_strength_weak">weak</string>
+    <string name="encrypt_keys_dialog_show">Show PIN</string>
+    <string name="encrypt_keys_dialog_state_decrypting">Decrypting…</string>
+    <string name="encrypt_keys_dialog_state_done">Done.</string>
+    <string name="encrypt_keys_dialog_state_encrypting">Encrypting…</string>
+    <string name="encrypt_keys_dialog_title">Spending PIN</string>
+    <string name="encrypt_keys_dialog_warning">Important: You need to remember your PIN! Do not use common numbers (like birthdates).</string>
+    <string name="error_bluetooth">Bluetooth error: %1$s</string>
+    <string name="error_http">HTTP error %1$s:\n%2$s</string>
+    <string name="error_io">I/O error: %s</string>
+    <string name="error_parse">Parse error: %s</string>
+    <string name="exchange_rates_activity_title">Exchange rates</string>
+    <string name="exchange_rates_context_set_as_default_title">Set as default foreign currency</string>
+    <string name="exchange_rates_fragment_balance">balance</string>
+    <string name="exchange_rates_fragment_default">(default)</string>
+    <string name="exchange_rates_fragment_empty_search">Could not find exchange rate.</string>
+    <string name="exchange_rates_fragment_empty_text">Could not load exchange rates.</string>
+    <string name="exchange_rates_fragment_rate">rate</string>
+    <string name="exchange_rates_fragment_source">Price from %s</string>
+    <string name="exchange_rates_options_search">Search exchange rate</string>
+    <string name="export_keys_dialog_button_archive">Archive</string>
+    <string name="export_keys_dialog_button_export">Back up</string>
+    <string name="export_keys_dialog_failure">Your wallet could not be backed up:\n%s</string>
+    <string name="export_keys_dialog_mail_intent_chooser">Archive wallet using…</string>
+    <string name="export_keys_dialog_mail_intent_failed">Archiving wallet failed.</string>
+    <string name="export_keys_dialog_mail_subject">Woodcoin Wallet backup</string>
+    <string name="export_keys_dialog_mail_text">The attached encrypted file contains Woodcoin private keys and should be kept safe at all times. Don\'t forget the encryption password!</string>
+    <string name="export_keys_dialog_success">&lt;p>Your wallet has been backed up to &lt;tt>%s&lt;/tt>&lt;/p>&lt;p>If your device has a removable SD card, your backup &lt;i>should&lt;/i> be on that card. Remove it and keep it at a safe place. If the card is &lt;i>not&lt;/i> removable, you need to archive your backup to some other place than your device.&lt;/p>&lt;p>&lt;b>If the only place your backup exists is on your device, you run the risk of losing both at the same time!&lt;/b>&lt;/p>&lt;p>In any case, make sure you remember your backup password. Do you want to archive your wallet now?&lt;/p></string>
+    <string name="export_keys_dialog_title">Back up wallet</string>
+    <string name="extended_public_key_fragment_share">Share xpub…</string>
+    <string name="extended_public_key_fragment_title">Extended Public Key</string>
+    <string name="help_request_coins">
+
+		&lt;p>
+			Using this dialog, you can request coins from another person (who should already have installed Woodcoin Wallet).
+		&lt;/p>
+		&lt;p>
+			First, you can enter an amount of Woodcoins to request.
+		&lt;/p>
+		&lt;p>
+			Then, you either have the generated QR code scanned by the other person.
+			Or, you can send your request to a remote person with the share button in the action bar.
+			The other person will have to click the Woodcoin URL.
+		&lt;/p>
+		&lt;p>
+			Either way, the other person will be presented a dialog for sending coins with all fields pre-populated.
+			If she accepts, all she needs to do is sending the payment.
+		&lt;/p>
+	
+	</string>
+    <string name="help_safety">
+
+		&lt;p>
+			&lt;b>Important safety notes:&lt;/b>
+		&lt;/p>
+		&lt;p>
+			Woodcoins are stored on the device.
+			&lt;b>If you lose it, you\'ll lose your Woodcoins.&lt;/b>
+		&lt;/p>
+		&lt;p>
+			This means you need to &lt;b>back up your wallet&lt;/b>!
+			Use the in-app backup facility for this, rather than a third party backup app.
+			Keep your backup safe and remember the password.
+		&lt;/p>
+		&lt;p>
+			&lt;b>Before uninstalling&lt;/b> (or clearing app data/wiping your device), &lt;b>transfer your Woodcoins to another wallet&lt;/b>.
+			Remaining Woodcoins will be lost.
+		&lt;/p>
+		&lt;p>
+			&lt;b>Payments are irreversible&lt;/b>.
+			If you send your Woodcoins into the void, there is almost no way to get them back.
+		&lt;/p>
+		&lt;p>
+			&lt;b>Keep your mobile device safe!&lt;/b>
+			Do not root your device.
+			Do only install apps you fully trust.
+			Malicious apps could be trying to steal your wallet.
+		&lt;/p>
+		&lt;p>
+			Keep the risk low!
+			&lt;b>Only use with small amounts&lt;/b> for day use.
+		&lt;/p>
+	
+	</string>
+    <string name="help_send_coins">
+
+		&lt;p>
+			You have initiated the process of sending coins.
+			You came here either through the main screen or by clicking on a Woodcoin URL in your mobile browser.
+		&lt;/p>
+		&lt;p>
+			First, you enter the Woodcoin address to pay to.
+			The address will autocomplete from known entries in your address book.
+			You can also scan QR codes with Woodcoin addresses or Woodcoin requests by pressing the QR button in the action bar.
+		&lt;/p>
+		&lt;p>
+			Next, you can see how many Woodcoins you can spend at the moment.
+			Any difference to the balance from the main screen is still unconfirmed and can thus not yet be spent.
+		&lt;/p>
+		&lt;p>
+			Last, you enter the amount to pay.
+		&lt;/p>
+		&lt;p>
+			You can enter a payment while being offline.
+			It will be sent on next restart of Woodcoin Wallet.
+			If you want a payment to be processed as fast as possible, make sure you are well connected (i.e. on a WLAN).
+		&lt;/p>
+		&lt;p>
+			Note:
+			Payments are irreversible!
+			Always check the receiving address.
+		&lt;/p>
+	
+	</string>
+    <string name="help_wallet">
+
+		&lt;p>
+			The upper left part of the screen displays your balance in Woodcoins and one selected national currency.
+			Tap to go to the list of national currencies, and tap on one of the currencies to select it as default.
+		&lt;/p>
+		&lt;p>
+			The QR code on the right contains your woodcoin address and can be used for scanning by another party.
+			Tap on the QR code to get a larger version of it.
+		&lt;/p>
+		&lt;p>
+			The bottom of the screen is covered by your transactions list, which is empty at the beginning.
+			Pending transactions are greyed out until they are confirmed.
+			Tap on one entry to add the senders or receivers address to the address book.
+		&lt;/p>
+		&lt;p>
+			You can send or request coins by tapping the buttons in the action bar.
+			More options are available in the options menu.
+		&lt;/p>
+	
+	</string>
+    <string name="import_export_keys_dialog_failure_title">Error</string>
+    <string name="import_export_keys_dialog_password">password</string>
+    <string name="import_export_keys_dialog_show">Show password</string>
+    <string name="import_keys_dialog_button_import">Restore</string>
+    <string name="import_keys_dialog_failure">Wallet could not be restored:\n\n%s\n\nBad password?</string>
+    <string name="import_keys_dialog_file_created_automatic">automatic backup %s</string>
+    <string name="import_keys_dialog_file_created_manual">manually backed up %s</string>
+    <string name="import_keys_dialog_file_security_encrypted">password encrypted</string>
+    <string name="import_keys_dialog_file_security_external">external storage</string>
+    <string name="import_keys_dialog_file_security_internal">app-private storage</string>
+    <string name="import_keys_dialog_file_security_unencrypted">unencrypted</string>
+    <string name="import_keys_dialog_message">Pick a wallet backup file from external storage (%s):</string>
+    <string name="import_keys_dialog_title">Restore wallet</string>
+    <string name="import_keys_dialog_warning">Important: Do not load private keys from dubious sources! Others can gain control over your funds if you do.</string>
+    <string name="import_keys_intent_filter_action">Restore wallet</string>
+    <string name="input_parser_cannot_classify">Cannot recognize input:\n%s</string>
+    <string name="input_parser_invalid_address">Got invalid Woodcoin address!\n(Mixing up mainnet/testnet?)</string>
+    <string name="input_parser_invalid_bitcoin_uri">Invalid Woodcoin URI:\n%s</string>
+    <string name="input_parser_invalid_paymentrequest">Invalid payment request:\n%s</string>
+    <string name="input_parser_invalid_transaction">Invalid transaction:\n%s</string>
+    <string name="input_parser_io_error">Cannot read data:\n%s</string>
+    <string name="input_parser_unverifyable_paymentrequest">Cannot verify payment request:\n%s</string>
+    <string name="maintenance_dialog_button_move">Move</string>
+    <string name="maintenance_dialog_message">You received %1$s to unsecure addresses. Would you like to move these coins to secure addresses? A small network fee of %2$s will be paid.</string>
+    <string name="maintenance_dialog_state_decrypting">Decrypting…</string>
+    <string name="maintenance_dialog_state_done">Done.</string>
+    <string name="maintenance_dialog_title">Maintenance recommended</string>
+    <string name="network_monitor_activity_title">Network monitor</string>
+    <string name="network_monitor_block_list_title">Blocks</string>
+    <string name="network_monitor_peer_list_title">Peers</string>
+    <string name="notification_coins_received_msg">Received %s</string>
+    <string name="notification_inactivity_action_dismiss">Remind me later</string>
+    <string name="notification_inactivity_action_dismiss_forever">Don\'t remind me</string>
+    <string name="notification_inactivity_message">Remember your balance of %s will be lost if you uninstall the Woodcoin Wallet app without sending it away first.</string>
+    <string name="notification_inactivity_message_donate">If you don\'t care about your coins, you could also donate them to the Woodcoin Wallet project.</string>
+    <string name="notification_inactivity_title">You\'ve still got Woodcoins on this device!</string>
+    <string name="notification_peers_connected_msg">%d peers connected</string>
+    <string name="peer_list_fragment_empty">No peers connected</string>
+    <string name="peer_list_row_ping_time">⇆ %d ms</string>
+    <string name="preferences_activity_title">Settings</string>
+    <string name="preferences_block_explorer_summary">External block explorer to use for browsing transactions, addresses and blocks.</string>
+    <string name="preferences_block_explorer_title">Block explorer</string>
+    <string name="preferences_category_diagnostics">Diagnostics</string>
+    <string name="preferences_category_labs">Labs</string>
+    <string name="preferences_connectivity_notification_summary">Show current number of connected peers in the notification area.</string>
+    <string name="preferences_connectivity_notification_title">Connectivity indicator</string>
+    <string name="preferences_data_usage_summary">Show options to restrict data usage on mobile networks.</string>
+    <string name="preferences_data_usage_title">Data usage</string>
+    <string name="preferences_extended_public_key_summary">View the extended public key of your wallet, so it can be imported into other apps and services. Be careful: doing so will disclose your monetary privacy to that app.</string>
+    <string name="preferences_extended_public_key_title">Show xpub</string>
+    <string name="preferences_initiate_reset_dialog_message">Would you like to reset and replay the block chain?\n\nThis will temporarily hide your wallet balance and remove transactions. Both will recover as block chain sync progresses.</string>
+    <string name="preferences_initiate_reset_dialog_positive">Reset</string>
+    <string name="preferences_initiate_reset_summary">Reset block chain, transactions and wallet balance. Replay will take a while.</string>
+    <string name="preferences_initiate_reset_title">Reset block chain</string>
+    <string name="preferences_own_name_summary">Name of yourself, to be added to payment requests. Try to keep it short.</string>
+    <string name="preferences_own_name_title">Own name</string>
+    <string name="preferences_precision_labels_0_6">µLOG, no decimal places</string>
+    <string name="preferences_precision_labels_2_3">mLOG, 2 decimal places</string>
+    <string name="preferences_precision_labels_4">LOG, 4 decimal places</string>
+    <string name="preferences_precision_labels_6">LOG, 6 decimal places</string>
+    <string name="preferences_precision_labels_8">LOG, 8 decimal places</string>
+    <string name="preferences_precision_summary">Unit to show amounts in. This does not affect computations.</string>
+    <string name="preferences_precision_title">Denomination and precision</string>
+    <string name="preferences_remind_balance_summary">After a couple of weeks of not being used, the app will notify if there are still coins in the wallet.</string>
+    <string name="preferences_remind_balance_title">Balance reminder</string>
+    <string name="preferences_report_issue_summary">Collect information about your issue and email your report to the developers.</string>
+    <string name="preferences_report_issue_title">Report issue</string>
+    <string name="preferences_send_coins_autoclose_summary">When the payment is made, the send dialog will close automatically.</string>
+    <string name="preferences_send_coins_autoclose_title">Auto-close send coins dialog</string>
+    <string name="preferences_trusted_peer_only_summary">Prevents connecting to any peers besides the trusted peer.</string>
+    <string name="preferences_trusted_peer_only_title">Skip regular peer discovery</string>
+    <string name="preferences_trusted_peer_resolve_progress">Resolving…</string>
+    <string name="preferences_trusted_peer_resolve_unknown_host">Unknown hostname!</string>
+    <string name="preferences_trusted_peer_summary">IP or hostname of single peer to connect to.</string>
+    <string name="preferences_trusted_peer_title">Trusted peer</string>
+    <string name="private_key_bad_password">bad PIN!</string>
+    <string name="private_key_password">PIN</string>
+    <string name="raise_fee_dialog_button_raise">Raise</string>
+    <string name="raise_fee_dialog_message">Do you want to raise the fee of this payment by %s? It will make the payment confirm quicker.</string>
+    <string name="raise_fee_dialog_state_decrypting">Decrypting…</string>
+    <string name="raise_fee_dialog_state_done">Done.</string>
+    <string name="raise_fee_dialog_title">Raise network fee</string>
+    <string name="report_issue_dialog_collect_application_log">Append application log</string>
+    <string name="report_issue_dialog_collect_device_info">Append device information</string>
+    <string name="report_issue_dialog_collect_installed_packages">Append list of installed packages</string>
+    <string name="report_issue_dialog_collect_wallet_dump">Append wallet dump</string>
+    <string name="report_issue_dialog_description">issue description</string>
+    <string name="report_issue_dialog_mail_intent_chooser">Send report using…</string>
+    <string name="report_issue_dialog_mail_intent_failed">Sending report failed.</string>
+    <string name="report_issue_dialog_message_crash">Would you like to send a crash report, helping to fix this issue in the future?</string>
+    <string name="report_issue_dialog_message_issue">Please describe your issue precisely enough to be reproduced.</string>
+    <string name="report_issue_dialog_report">Report</string>
+    <string name="report_issue_dialog_title_crash">Previous crash detected</string>
+    <string name="report_issue_dialog_title_issue">Report issue</string>
+    <string name="request_coins_activity_title">Request Woodcoins</string>
+    <string name="request_coins_clipboard_msg">Woodcoin request copied to clipboard</string>
+    <string name="request_coins_fragment_accept_bluetooth_payment">Accept payment via Bluetooth for more reliable processing</string>
+    <string name="request_coins_fragment_amount_label">Requested amount (optional)</string>
+    <string name="request_coins_fragment_initiate_request_nfc">Or tap an NFC enabled device.</string>
+    <string name="request_coins_fragment_initiate_request_qr">Have this code scanned by the sender.</string>
+    <string name="request_coins_no_local_app_msg">No other Woodcoin app found</string>
+    <string name="request_coins_options_local_app_title">Request from local app</string>
+    <string name="request_coins_share_dialog_title">Share request for Woodcoins…</string>
+    <string name="restore_wallet_dialog_replace_warning">You are about to replace your current wallet. Any coins in the current wallet will be lost unless you\'ve got a separate backup of that.</string>
+    <string name="restore_wallet_dialog_success">Wallet was restored.</string>
+    <string name="restore_wallet_dialog_success_replay">Your wallet was successfully restored. Its balance will be determined next. This will take some time.</string>
+    <string name="scan_camera_problem_dialog_message">The camera has a problem. You probably need to restart the device.</string>
+    <string name="scan_camera_problem_dialog_title">Sorry</string>
+    <string name="send_coins_activity_title">Send Woodcoins</string>
+    <string name="send_coins_error_msg">Problem sending coins!</string>
+    <string name="send_coins_failed_msg">Failed!</string>
+    <string name="send_coins_fragment_amount_label">Amount to pay</string>
+    <string name="send_coins_fragment_button_back">Back</string>
+    <string name="send_coins_fragment_button_send">Send</string>
+    <string name="send_coins_fragment_direct_payment_ack">Your payment was successfully sent directly.</string>
+    <string name="send_coins_fragment_direct_payment_enable">Send payment directly to the payee.</string>
+    <string name="send_coins_fragment_direct_payment_failed_msg">Your payment will still be broadcasted via the P2P network.</string>
+    <string name="send_coins_fragment_direct_payment_failed_title">Direct payment failed</string>
+    <string name="send_coins_fragment_direct_payment_nack">Your payment was rejected via direct connection.</string>
+    <string name="send_coins_fragment_empty_wallet_failed_title">Emptying of wallet failed</string>
+    <string name="send_coins_fragment_hint_dusty_send">The amount is too small to send.</string>
+    <string name="send_coins_fragment_hint_empty_wallet_failed">The amount of tiny payments in your wallet doesn\'t add up to a sendable value.</string>
+    <string name="send_coins_fragment_hint_fee">A small network fee of %s will be paid.</string>
+    <string name="send_coins_fragment_hint_insufficient_money">Not enough available coins. You\'re missing %s.</string>
+    <string name="send_coins_fragment_insufficient_money_msg1">You\'re missing %s.</string>
+    <string name="send_coins_fragment_insufficient_money_msg2">Do you want to pay with all you have?</string>
+    <string name="send_coins_fragment_insufficient_money_title">Not enough available coins</string>
+    <string name="send_coins_fragment_payee_verified_by">verified by: %s</string>
+    <string name="send_coins_fragment_payee_verified_by_unknown">unknown</string>
+    <string name="send_coins_fragment_pending">(%s waiting for confirmation)</string>
+    <string name="send_coins_fragment_receiving_address_complex">complex\naddress</string>
+    <string name="send_coins_fragment_receiving_address_error">Invalid Woodcoin address!</string>
+    <string name="send_coins_fragment_receiving_address_hint">type address or name</string>
+    <string name="send_coins_fragment_receiving_address_label">Pay to</string>
+    <string name="send_coins_fragment_receiving_address_own">You\'re about to send to yourself!</string>
+    <string name="send_coins_fragment_request_payment_request_failed_title">Fetching signature failed</string>
+    <string name="send_coins_fragment_request_payment_request_progress">Fetching signature from %s…</string>
+    <string name="send_coins_fragment_request_payment_request_wrong_signature">Wrong signature!</string>
+    <string name="send_coins_fragment_state_decrypting">Decrypting…</string>
+    <string name="send_coins_options_empty">Empty wallet</string>
+    <string name="send_coins_options_fee_category">Fee</string>
+    <string name="send_coins_options_fee_category_economic">Economic</string>
+    <string name="send_coins_options_fee_category_normal">Normal</string>
+    <string name="send_coins_options_fee_category_priority">Priority</string>
+    <string name="send_coins_preparation_msg">Signing…</string>
+    <string name="send_coins_sending_msg">Sending…</string>
+    <string name="send_coins_sent_msg">Sent!</string>
+    <string name="sweep_wallet_activity_title">Sweep paper wallet</string>
+    <string name="sweep_wallet_fragment_bad_password">bad password!</string>
+    <string name="sweep_wallet_fragment_balance">Balance to sweep</string>
+    <string name="sweep_wallet_fragment_button_decrypt">Decrypt</string>
+    <string name="sweep_wallet_fragment_button_sweep">Sweep</string>
+    <string name="sweep_wallet_fragment_decrypt_progress">Decrypting…\nTakes up to 2 minutes.</string>
+    <string name="sweep_wallet_fragment_encrypted">This private key is protected with a password.</string>
+    <string name="sweep_wallet_fragment_hint">Paper wallets are most commonly used for cold storage. Some ATMs print them on their paper slip rather than sending the coins to your mobile device directly. People sometimes use pre-charged paper wallets to pass value around (not recommended).</string>
+    <string name="sweep_wallet_fragment_insufficient_money_msg">The amount of coins in the wallet is too small for sweeping.</string>
+    <string name="sweep_wallet_fragment_insufficient_money_title">Not enough coins</string>
+    <string name="sweep_wallet_fragment_intro">You are about to sweep a paper wallet or coupon. This will move all coins from that paper to your wallet on this device. When the transaction is confirmed, the paper will be worthless and should not be re-used for safety reasons.</string>
+    <string name="sweep_wallet_fragment_password">password</string>
+    <string name="sweep_wallet_fragment_request_wallet_balance_failed_title">Loading wallet balance failed</string>
+    <string name="sweep_wallet_fragment_request_wallet_balance_progress">Loading balance…</string>
+    <string name="sweep_wallet_fragment_wallet_unknown">Start by scanning the private key of a paper wallet. Use the camera action button.</string>
+    <string name="sweep_wallet_options_reload">Reload balance</string>
+    <string name="symbol_from">←</string>
+    <string name="symbol_internal">⇄</string>
+    <string name="symbol_to">→</string>
+    <string name="time_today">today</string>
+    <string name="toast_wallet_reset">Your wallet was reset!\nIt will take some time to recover.</string>
+    <string name="transaction_row_fee">Network fee</string>
+    <string name="transaction_row_message_own_unbroadcasted">This payment has not been transmitted yet.</string>
+    <string name="transaction_row_message_purpose_key_rotation">This transaction strengthens your wallet against theft. &lt;u>More info.&lt;/u></string>
+    <string name="transaction_row_message_purpose_raise_fee">This transaction raises the network fee for a previous payment.</string>
+    <string name="transaction_row_message_received_dead">This payment has been reversed by the sender.</string>
+    <string name="transaction_row_message_received_direct">This payment has been received directly. There is a risk it might never become spendable.</string>
+    <string name="transaction_row_message_received_dust">This small amount can probably never be spent economically.</string>
+    <string name="transaction_row_message_received_pay_to_many">This payment pays to many wallets besides yours, which makes the app slow down over time. If you can, try receiving payments which pay only to you.</string>
+    <string name="transaction_row_message_received_rbf">This payment was delayed because the sender used an insecure transaction type.</string>
+    <string name="transaction_row_message_received_unconfirmed_unlocked">This payment should become spendable in a few minutes.</string>
+    <string name="wallet_address_dialog_fragment_hint">To protect your privacy, your address will change once it receives a payment.</string>
+    <string name="wallet_address_fragment_clipboard_msg">Woodcoin address copied to clipboard</string>
+    <string name="wallet_balance_fragment_replaying">Balance is unavailable during replay.</string>
+    <string name="wallet_balance_fragment_too_much">This amount is quite high for carrying in your pocket. Please move some to a safer place.</string>
+    <string name="wallet_disclaimer_fragment_remind_backup">You need to &lt;u>back up your wallet&lt;/u>!</string>
+    <string name="wallet_disclaimer_fragment_remind_safety">Use at your own risk. Read the &lt;u>safety notes&lt;/u>.</string>
+    <string name="wallet_donate_address_label">Donation for Woodcoin Wallet</string>
+    <string name="wallet_low_storage_dialog_button_apps">Manage apps</string>
+    <string name="wallet_low_storage_dialog_msg">Woodcoin Wallet uses internal storage for remembering transactions and blocks. If it runs out of space, it will stop working and your Woodcoins will be at risk!\n\nDo you want to open the Application Manager to uninstall unneeded apps?</string>
+    <string name="wallet_low_storage_dialog_title">Internal device storage space low!</string>
+    <string name="wallet_old_sdk_dialog_message">Chances are that one of the next releases of Woodcoin Wallet will not support your device any more. In some cases, it can get difficult to spend coins on this device.\n\nUnless you know what you are doing, it is recommended to move out your coins soon.</string>
+    <string name="wallet_old_sdk_dialog_title">Android version is out of date</string>
+    <string name="wallet_options_donate">Tip / donate</string>
+    <string name="wallet_options_encrypt_keys_change">Change spending PIN</string>
+    <string name="wallet_options_encrypt_keys_set">Set spending PIN</string>
+    <string name="wallet_options_safety">Safety notes</string>
+    <string name="wallet_options_safety_menu">Safety</string>
+    <string name="wallet_timeskew_dialog_msg">Your device time is off by %d minutes. You probably cannot send or receive Woodcoins due to this problem.\n\nYou should check and if necessary correct your date, time and timezone settings.</string>
+    <string name="wallet_timeskew_dialog_title">Check date &amp; time settings</string>
+    <string name="wallet_transactions_fragment_coinbase">mined</string>
+    <string name="wallet_transactions_fragment_empty_text_howto">How to get Woodcoins?\n\nTrade for traditional money,\nsell goods or services or\nearn by working.</string>
+    <string name="wallet_transactions_fragment_empty_text_received">No Woodcoins received so far.</string>
+    <string name="wallet_transactions_fragment_empty_text_sent">No Woodcoins sent so far.</string>
+    <string name="wallet_transactions_fragment_internal">internal</string>
+    <string name="wallet_transactions_options_filter">Filter</string>
+    <string name="wallet_transactions_options_filter_all">All payments</string>
+    <string name="wallet_transactions_options_filter_received">Received payments</string>
+    <string name="wallet_transactions_options_filter_sent">Sent payments</string>
+    <string name="wallet_transactions_row_warning_backup">Congratulations, you received your first payment! Have you already &lt;u>backed up your wallet&lt;/u>, to protect against loss?</string>
+    <string name="wallet_transactions_row_warning_storage_encryption">Hint: to increase the safety of your wallet, you can &lt;u>encrypt your device&lt;/u>. This also protects data of other apps.</string>
+    <string name="wallet_version_dialog_button_binary">Download</string>
+    <string name="wallet_version_dialog_button_market">Google Play</string>
+    <string name="wallet_version_dialog_msg">This version fixes important bugs. For details, see the change log on Google Play.</string>
+    <string name="wallet_version_dialog_msg_deprecated">If you don\'t see an update, this probably means your version of Android isn\'t supported any more.</string>
+    <string name="wallet_version_dialog_title">A new version is available!</string>
+    <style name="CardView">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style>
+    <style name="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style>
+    <style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
+    <style name="My.TextAppearance.Widget.ActionBar.Subtitle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Subtitle">
+		<item name="android:textColor">@color/fg_network_insignificant</item>
+		<item name="android:textStyle">normal</item>
+	</style>
+    <style name="My.TextAppearance.Widget.ActionBar.Title" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+		<item name="android:textColor">@color/fg_network_significant</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:shadowColor">@android:color/black</item>
+		<item name="android:shadowRadius">1</item>
+	</style>
+    <style name="My.TextAppearance.Widget.ActionMode.Subtitle" parent="@android:style/TextAppearance.Holo.Widget.ActionMode.Subtitle">
+		<item name="android:textColor">@android:color/white</item>
+		<item name="android:textStyle">normal</item>
+	</style>
+    <style name="My.TextAppearance.Widget.ActionMode.Title" parent="@android:style/TextAppearance.Holo.Widget.ActionMode.Title">
+		<item name="android:textColor">@android:color/white</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:shadowColor">@android:color/black</item>
+		<item name="android:shadowRadius">1</item>
+	</style>
+    <style name="My.Theme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+		<item name="android:actionBarStyle">@style/My.Widget.ActionBar</item>
+		<item name="android:actionModeStyle">@style/My.Widget.ActionMode</item>
+		<item name="android:actionMenuTextColor">@color/fg_network</item>
+		<item name="android:actionButtonStyle">@style/My.Widget.ActionButton</item>
+		<item name="android:actionOverflowButtonStyle">@style/My.Widget.ActionButton.Overflow</item>
+		<item name="android:textViewStyle">@style/My.Widget.TextView</item>
+		<item name="android:editTextStyle">@style/My.Widget.EditText</item>
+		<item name="android:autoCompleteTextViewStyle">@style/My.Widget.AutoCompleteTextView</item>
+		<item name="android:checkboxStyle">@style/My.Widget.CompoundButton.CheckBox</item>
+		<item name="android:spinnerStyle">@style/My.Widget.Spinner</item>
+	</style>
+    <style name="My.Theme.ChildActivity" parent="@style/My.Theme">
+		<item name="android:actionBarStyle">@style/My.Widget.ActionBar.ChildActivity</item>
+		<item name="android:homeAsUpIndicator">@drawable/action_bar_up_indicator</item>
+	</style>
+    <style name="My.Theme.Dialog" parent="@android:style/Theme.Holo.Light.Dialog"/>
+    <style name="My.Theme.Fullscreen" parent="@android:style/Theme.Holo.NoActionBar.Fullscreen"/>
+    <style name="My.Widget.ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+		<item name="android:background">@drawable/action_bar_background</item>
+		<item name="android:titleTextStyle">@style/My.TextAppearance.Widget.ActionBar.Title</item>
+		<item name="android:subtitleTextStyle">@style/My.TextAppearance.Widget.ActionBar.Subtitle</item>
+		<item name="android:displayOptions">showTitle</item>
+	</style>
+    <style name="My.Widget.ActionBar.ChildActivity" parent="@style/My.Widget.ActionBar">
+		<item name="android:displayOptions">homeAsUp|showTitle</item>
+	</style>
+    <style name="My.Widget.ActionButton" parent="@android:style/Widget.Holo.ActionButton">
+		<item name="android:drawablePadding">6dp</item>
+	</style>
+    <style name="My.Widget.ActionButton.Overflow" parent="@android:style/Widget.Holo.ActionButton.Overflow">
+		<item name="android:src">@drawable/ic_more_vert_white_24dp</item>
+	</style>
+    <style name="My.Widget.ActionMode" parent="@android:style/Widget.Holo.Light.ActionMode.Inverse">
+		<item name="android:background">@drawable/action_mode_background</item>
+		<item name="android:titleTextStyle">@style/My.TextAppearance.Widget.ActionMode.Title</item>
+		<item name="android:subtitleTextStyle">@style/My.TextAppearance.Widget.ActionMode.Subtitle</item>
+	</style>
+    <style name="My.Widget.AutoCompleteTextView" parent="@android:style/Widget.Holo.Light.AutoCompleteTextView">
+		<item name="android:textColor">@color/fg_significant</item>
+		<item name="android:textSize">@dimen/font_size_normal</item>
+	</style>
+    <style name="My.Widget.Button.Borderless" parent="@android:style/Widget.Holo.Button.Borderless">
+		<item name="android:paddingLeft">8dp</item>
+		<item name="android:paddingRight">8dp</item>
+		<item name="android:drawablePadding">8dp</item>
+	</style>
+    <style name="My.Widget.Button.Borderless.Small" parent="@android:style/Widget.Holo.Button.Borderless.Small">
+		<item name="android:minWidth">40dp</item>
+		<item name="android:minHeight">40dp</item>
+	</style>
+    <style name="My.Widget.Button.Borderless.Unpadded" parent="@android:style/Widget.Holo.Button.Borderless">
+		<item name="android:padding">0px</item>
+		<item name="android:drawablePadding">0px</item>
+	</style>
+    <style name="My.Widget.CompoundButton.CheckBox" parent="@android:style/Widget.Holo.Light.CompoundButton.CheckBox">
+		<item name="android:textColor">@color/fg_significant</item>
+		<item name="android:textSize">@dimen/font_size_normal</item>
+	</style>
+    <style name="My.Widget.EditText" parent="@android:style/Widget.Holo.Light.EditText">
+		<item name="android:textColor">@color/fg_significant</item>
+		<item name="android:textSize">@dimen/font_size_normal</item>
+	</style>
+    <style name="My.Widget.Spinner" parent="@android:style/Widget.Holo.Light.Spinner">
+		<item name="android:textColor">@color/fg_significant</item>
+		<item name="android:textSize">@dimen/font_size_normal</item>
+	</style>
+    <style name="My.Widget.TextView" parent="@android:style/Widget.Holo.Light.TextView">
+		<item name="android:textColor">@color/fg_significant</item>
+		<item name="android:textSize">@dimen/font_size_normal</item>
+	</style>
+</resources>
