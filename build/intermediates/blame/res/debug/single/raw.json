@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/raw/send_coins_broadcast_2.wav",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/raw/send_coins_broadcast_2.wav"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/raw/send_coins_broadcast_3.wav",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/raw/send_coins_broadcast_3.wav"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/raw/coins_received.wav",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/raw/coins_received.wav"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/raw/send_coins_broadcast_4.wav",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/raw/send_coins_broadcast_4.wav"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/raw/send_coins_broadcast_1.wav",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/raw/send_coins_broadcast_1.wav"
+    }
+]

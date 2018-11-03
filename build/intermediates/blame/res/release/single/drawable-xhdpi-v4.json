@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/stat_notify_received.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/stat_notify_received.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/appwidget_inner_pressed_r.9.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/appwidget_inner_pressed_r.9.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/appwidget_dark_bg_focused.9.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/appwidget_dark_bg_focused.9.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/widget_preview.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/widget_preview.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_pin_drop_white_24dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_pin_drop_white_24dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/currency_symbol_mbtc.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/currency_symbol_mbtc.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_photo_camera_white_24dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_photo_camera_white_24dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_content_paste_white_24dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_content_paste_white_24dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_create_white_24dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_create_white_24dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_send_white_24dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_send_white_24dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/appwidget_inner_pressed_l.9.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/appwidget_inner_pressed_l.9.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_clear_grey600_24dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_clear_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_delete_white_24dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_content_copy_white_24dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_content_copy_white_24dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_filter_list_white_24dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_filter_list_white_24dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/currency_symbol_ubtc.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/currency_symbol_ubtc.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/appwidget_inner_pressed_c.9.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/appwidget_inner_pressed_c.9.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_share_white_24dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_share_white_24dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_refresh_white_24dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_refresh_white_24dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_more_vert_white_24dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_more_vert_white_24dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/appwidget_dark_bg.9.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/appwidget_dark_bg.9.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_more_vert_grey600_18dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_more_vert_grey600_18dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_search_white_24dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_local_offer_white_24dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_local_offer_white_24dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/appwidget_inner_focused_l.9.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/appwidget_inner_focused_l.9.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/appwidget_dark_bg_pressed.9.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/appwidget_dark_bg_pressed.9.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_arrow_back_white_24dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_send_flipped_white_24dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_send_flipped_white_24dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/currency_symbol_btc.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/currency_symbol_btc.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_action_qr.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_action_qr.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/appwidget_inner_focused_c.9.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/appwidget_inner_focused_c.9.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_app_color_48dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_app_color_48dp.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/appwidget_inner_focused_r.9.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/appwidget_inner_focused_r.9.png"
+    },
+    {
+        "merged": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_warning_grey600_24dp.png",
+        "source": "/home/lukas/woodcoin-wallet-dev/wallet/res/drawable-xhdpi/ic_warning_grey600_24dp.png"
+    }
+]

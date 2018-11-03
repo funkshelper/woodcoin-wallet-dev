@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/home/lukas/woodcoin-wallet-dev/wallet/build/intermediates/res/merged/debug/values-large-land-v4/values-large-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-large-land/layouts.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 222,
+                        "endColumn": 65,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 88,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-large-land/layouts.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 136,
+                        "endColumn": 85,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 85,
+                    "endOffset": 294
+                },
+                "from": {
+                    "file": "/home/lukas/woodcoin-wallet-dev/wallet/res/values-large-land/layouts.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 53,
+                        "endColumn": 82,
+                        "endOffset": 134
+                    }
+                }
+            }
+        ]
+    }
+]
